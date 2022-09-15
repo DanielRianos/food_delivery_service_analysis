@@ -1,0 +1,1649 @@
+name;zip;kpi;Month 1;Month 2;delivery service
+Mampf;8020;# Commissionable Orders;699.0;822.0;deliverando
+Mampf;8020;Avg Basket Size €;22.5;23.33;deliverando
+Mampf;8020;# Negative Comments;3.0;4.0;deliverando
+Mampf;8020;# Positive Comments;1.0;1.0;deliverando
+Mampf;8020;% Kill Rate;52;46;deliverando
+Mampf;8020;Avg Time to Accept (s);17.0;15.0;deliverando
+Dolce Vita;8020;# Commissionable Orders;1178.0;1353.0;deliverando
+Dolce Vita;8020;Avg Basket Size €;19.12;19.95;deliverando
+Dolce Vita;8020;# Negative Comments;0.0;3.0;deliverando
+Dolce Vita;8020;# Positive Comments;1.0;1.0;deliverando
+Dolce Vita;8020;% Kill Rate;0.06;57;deliverando
+Dolce Vita;8020;Avg Time to Accept (s);9.0;9.0;deliverando
+China Restaurant Mond;8010;# Commissionable Orders;230.0;375.0;deliverando
+China Restaurant Mond;8010;Avg Basket Size €;23.82;24.73;deliverando
+China Restaurant Mond;8010;# Negative Comments;1.0;0.0;deliverando
+China Restaurant Mond;8010;# Positive Comments;1.0;1.0;deliverando
+China Restaurant Mond;8010;% Kill Rate;54;112;deliverando
+China Restaurant Mond;8010;Avg Time to Accept (s);19.0;20.0;deliverando
+Royal;8020;# Commissionable Orders;692.0;734.0;deliverando
+Royal;8020;Avg Basket Size €;24.6;25.68;deliverando
+Royal;8020;# Negative Comments;3.0;8.0;deliverando
+Royal;8020;# Positive Comments;1.0;1.0;deliverando
+Royal;8020;% Kill Rate;77;73;deliverando
+Royal;8020;Avg Time to Accept (s);27.0;28.0;deliverando
+Xpress;8020;# Commissionable Orders;365.0;410.0;deliverando
+Xpress;8020;Avg Basket Size €;24.13;24.18;deliverando
+Xpress;8020;# Negative Comments;2.0;0.0;deliverando
+Xpress;8020;# Positive Comments;1.0;1.0;deliverando
+Xpress;8020;% Kill Rate;39;44;deliverando
+Xpress;8020;Avg Time to Accept (s);20.0;18.0;deliverando
+Goldene Schwalbe - Chinarestaurant;8020;# Commissionable Orders;106.0;120.0;deliverando
+Goldene Schwalbe - Chinarestaurant;8020;Avg Basket Size €;25.02;27.79;deliverando
+Goldene Schwalbe - Chinarestaurant;8020;# Negative Comments;1.0;0.0;deliverando
+Goldene Schwalbe - Chinarestaurant;8020;# Positive Comments;1.0;1.0;deliverando
+Goldene Schwalbe - Chinarestaurant;8020;% Kill Rate;0.1;85;deliverando
+Goldene Schwalbe - Chinarestaurant;8020;Avg Time to Accept (s);34.0;31.0;deliverando
+Road Burger - Pizza Taxi 2600;8053;# Commissionable Orders;746.0;835.0;deliverando
+Road Burger - Pizza Taxi 2600;8053;Avg Basket Size €;26.34;28.07;deliverando
+Road Burger - Pizza Taxi 2600;8053;# Negative Comments;0.0;4.0;deliverando
+Road Burger - Pizza Taxi 2600;8053;# Positive Comments;1.0;1.0;deliverando
+Road Burger - Pizza Taxi 2600;8053;% Kill Rate;54;51;deliverando
+Road Burger - Pizza Taxi 2600;8053;Avg Time to Accept (s);21.0;24.0;deliverando
+Pizzeria Mama Rosa;8051;# Commissionable Orders;336.0;362.0;deliverando
+Pizzeria Mama Rosa;8051;Avg Basket Size €;17.46;18.67;deliverando
+Pizzeria Mama Rosa;8051;# Negative Comments;9.0;9.0;deliverando
+Pizzeria Mama Rosa;8051;# Positive Comments;1.0;1.0;deliverando
+Pizzeria Mama Rosa;8051;% Kill Rate;75;81;deliverando
+Pizzeria Mama Rosa;8051;Avg Time to Accept (s);26.0;26.0;deliverando
+China Restaurant Imperium;8010;# Commissionable Orders;486.0;561.0;deliverando
+China Restaurant Imperium;8010;Avg Basket Size €;24.3;24.81;deliverando
+China Restaurant Imperium;8010;# Negative Comments;1.0;1.0;deliverando
+China Restaurant Imperium;8010;# Positive Comments;1.0;1.0;deliverando
+China Restaurant Imperium;8010;% Kill Rate;85;79;deliverando
+China Restaurant Imperium;8010;Avg Time to Accept (s);15.0;16.0;deliverando
+Gambaro Rosso;8042;# Commissionable Orders;248.0;211.0;deliverando
+Gambaro Rosso;8042;Avg Basket Size €;20.72;20.81;deliverando
+Gambaro Rosso;8042;# Negative Comments;1.0;1.0;deliverando
+Gambaro Rosso;8042;# Positive Comments;1.0;1.0;deliverando
+Gambaro Rosso;8042;% Kill Rate;93;81;deliverando
+Gambaro Rosso;8042;Avg Time to Accept (s);18.0;20.0;deliverando
+China Restaurant Zum Goldenen Fisch;8010;# Commissionable Orders;333.0;335.0;deliverando
+China Restaurant Zum Goldenen Fisch;8010;Avg Basket Size €;22.6;22.93;deliverando
+China Restaurant Zum Goldenen Fisch;8010;# Negative Comments;6.0;1.0;deliverando
+China Restaurant Zum Goldenen Fisch;8010;# Positive Comments;1.0;1.0;deliverando
+China Restaurant Zum Goldenen Fisch;8010;% Kill Rate;103;106;deliverando
+China Restaurant Zum Goldenen Fisch;8010;Avg Time to Accept (s);127.0;104.0;deliverando
+Don Alfredo & Der Knusperwirt;8020;# Commissionable Orders;328.0;322.0;deliverando
+Don Alfredo & Der Knusperwirt;8020;Avg Basket Size €;21.85;23.49;deliverando
+Don Alfredo & Der Knusperwirt;8020;# Negative Comments;1.0;0.0;deliverando
+Don Alfredo & Der Knusperwirt;8020;# Positive Comments;1.0;1.0;deliverando
+Don Alfredo & Der Knusperwirt;8020;% Kill Rate;107;99;deliverando
+Don Alfredo & Der Knusperwirt;8020;Avg Time to Accept (s);27.0;20.0;deliverando
+Restaurant Pizzeria Venezia;8020;# Commissionable Orders;116.0;81.0;deliverando
+Restaurant Pizzeria Venezia;8020;Avg Basket Size €;12.23;12.9;deliverando
+Restaurant Pizzeria Venezia;8020;# Negative Comments;0.0;1.0;deliverando
+Restaurant Pizzeria Venezia;8020;# Positive Comments;1.0;1.0;deliverando
+Restaurant Pizzeria Venezia;8020;% Kill Rate;0.13;109;deliverando
+Restaurant Pizzeria Venezia;8020;Avg Time to Accept (s);397.0;392.0;deliverando
+Salz & Pfeffer;8020;# Commissionable Orders;460.0;528.0;deliverando
+Salz & Pfeffer;8020;Avg Basket Size €;26.82;25.62;deliverando
+Salz & Pfeffer;8020;# Negative Comments;6.0;2.0;deliverando
+Salz & Pfeffer;8020;# Positive Comments;1.0;1.0;deliverando
+Salz & Pfeffer;8020;% Kill Rate;91;0.08;deliverando
+Salz & Pfeffer;8020;Avg Time to Accept (s);22.0;23.0;deliverando
+Uni Pizza;8054;# Commissionable Orders;23.0;35.0;deliverando
+Uni Pizza;8054;Avg Basket Size €;18.54;19.56;deliverando
+Uni Pizza;8054;# Negative Comments;0.0;0.0;deliverando
+Uni Pizza;8054;# Positive Comments;1.0;1.0;deliverando
+Uni Pizza;8054;% Kill Rate;77;77;deliverando
+Uni Pizza;8054;Avg Time to Accept (s);100.0;40.0;deliverando
+Side Cafe-Pizzeria;8020;# Commissionable Orders;36.0;36.0;deliverando
+Side Cafe-Pizzeria;8020;Avg Basket Size €;13.84;13.41;deliverando
+Side Cafe-Pizzeria;8020;# Negative Comments;0.0;0.0;deliverando
+Side Cafe-Pizzeria;8020;# Positive Comments;1.0;1.0;deliverando
+Side Cafe-Pizzeria;8020;% Kill Rate;78;0.08;deliverando
+Side Cafe-Pizzeria;8020;Avg Time to Accept (s);387.0;366.0;deliverando
+Aming Dim Sum Profi;8010;# Commissionable Orders;235.0;299.0;deliverando
+Aming Dim Sum Profi;8010;Avg Basket Size €;31.06;32.16;deliverando
+Aming Dim Sum Profi;8010;# Negative Comments;1.0;1.0;deliverando
+Aming Dim Sum Profi;8010;# Positive Comments;1.0;1.0;deliverando
+Aming Dim Sum Profi;8010;% Kill Rate;115;105;deliverando
+Aming Dim Sum Profi;8010;Avg Time to Accept (s);21.0;12.0;deliverando
+Pizza Anka;8020;# Commissionable Orders;64.0;80.0;deliverando
+Pizza Anka;8020;Avg Basket Size €;11.63;11.5;deliverando
+Pizza Anka;8020;# Negative Comments;0.0;0.0;deliverando
+Pizza Anka;8020;# Positive Comments;1.0;1.0;deliverando
+Pizza Anka;8020;% Kill Rate;35;29;deliverando
+Pizza Anka;8020;Avg Time to Accept (s);345.0;339.0;deliverando
+Schnitzel Stubn;8010;# Commissionable Orders;0.0;0.0;deliverando
+Schnitzel Stubn;8010;# Negative Comments;0.0;0.0;deliverando
+Schnitzel Stubn;8010;# Positive Comments;0.0;0.0;deliverando
+Phoenix Restaurant;8020;# Commissionable Orders;0.0;0.0;deliverando
+Phoenix Restaurant;8020;# Negative Comments;0.0;0.0;deliverando
+Phoenix Restaurant;8020;# Positive Comments;0.0;0.0;deliverando
+Shu;8020;# Commissionable Orders;285.0;252.0;deliverando
+Shu;8020;Avg Basket Size €;19.86;22.08;deliverando
+Shu;8020;# Negative Comments;2.0;2.0;deliverando
+Shu;8020;# Positive Comments;1.0;1.0;deliverando
+Shu;8020;% Kill Rate;87;77;deliverando
+Shu;8020;Avg Time to Accept (s);16.0;17.0;deliverando
+China Haus;8043;# Commissionable Orders;240.0;300.0;deliverando
+China Haus;8043;Avg Basket Size €;24.08;25.44;deliverando
+China Haus;8043;# Negative Comments;0.0;1.0;deliverando
+China Haus;8043;# Positive Comments;1.0;1.0;deliverando
+China Haus;8043;% Kill Rate;86;81;deliverando
+China Haus;8043;Avg Time to Accept (s);18.0;14.0;deliverando
+King Pizzeria;8054;# Commissionable Orders;229.0;253.0;deliverando
+King Pizzeria;8054;Avg Basket Size €;18.65;18.55;deliverando
+King Pizzeria;8054;# Negative Comments;1.0;1.0;deliverando
+King Pizzeria;8054;# Positive Comments;1.0;1.0;deliverando
+King Pizzeria;8054;% Kill Rate;0.07;71;deliverando
+King Pizzeria;8054;Avg Time to Accept (s);13.0;11.0;deliverando
+Wiener & Co;8052;# Commissionable Orders;278.0;319.0;deliverando
+Wiener & Co;8052;Avg Basket Size €;23.98;24.27;deliverando
+Wiener & Co;8052;# Negative Comments;2.0;1.0;deliverando
+Wiener & Co;8052;# Positive Comments;1.0;1.0;deliverando
+Wiener & Co;8052;% Kill Rate;59;58;deliverando
+Wiener & Co;8052;Avg Time to Accept (s);23.0;21.0;deliverando
+Pizza und Kebap Studio;8042;# Commissionable Orders;674.0;643.0;deliverando
+Pizza und Kebap Studio;8042;Avg Basket Size €;14.01;14.31;deliverando
+Pizza und Kebap Studio;8042;# Negative Comments;6.0;3.0;deliverando
+Pizza und Kebap Studio;8042;# Positive Comments;1.0;1.0;deliverando
+Pizza und Kebap Studio;8042;% Kill Rate;47;43;deliverando
+Pizza und Kebap Studio;8042;Avg Time to Accept (s);11.0;10.0;deliverando
+Da Piero;8020;# Commissionable Orders;1463.0;1634.0;deliverando
+Da Piero;8020;Avg Basket Size €;19.56;19.89;deliverando
+Da Piero;8020;# Negative Comments;1.0;1.0;deliverando
+Da Piero;8020;# Positive Comments;1.0;1.0;deliverando
+Da Piero;8020;% Kill Rate;64;61;deliverando
+Da Piero;8020;Avg Time to Accept (s);9.0;9.0;deliverando
+Pizza Burg;8041;# Commissionable Orders;67.0;114.0;deliverando
+Pizza Burg;8041;Avg Basket Size €;24.43;23.95;deliverando
+Pizza Burg;8041;# Negative Comments;0.0;3.0;deliverando
+Pizza Burg;8041;# Positive Comments;1.0;1.0;deliverando
+Pizza Burg;8041;% Kill Rate;133;0.12;deliverando
+Pizza Burg;8041;Avg Time to Accept (s);10.0;11.0;deliverando
+China Restaurant Ye;8010;# Commissionable Orders;869.0;651.0;deliverando
+China Restaurant Ye;8010;Avg Basket Size €;24.98;25.16;deliverando
+China Restaurant Ye;8010;# Negative Comments;1.0;3.0;deliverando
+China Restaurant Ye;8010;# Positive Comments;1.0;1.0;deliverando
+China Restaurant Ye;8010;% Kill Rate;69;67;deliverando
+China Restaurant Ye;8010;Avg Time to Accept (s);16.0;12.0;deliverando
+Reggae Haus;8010;# Commissionable Orders;52.0;157.0;deliverando
+Reggae Haus;8010;Avg Basket Size €;19.5;19.24;deliverando
+Reggae Haus;8010;# Negative Comments;1.0;4.0;deliverando
+Reggae Haus;8010;# Positive Comments;1.0;1.0;deliverando
+Reggae Haus;8010;Avg Time to Accept (s);32.0;21.0;deliverando
+Than Thai Asia;8041;# Commissionable Orders;191.0;129.0;deliverando
+Than Thai Asia;8041;Avg Basket Size €;28.18;26.76;deliverando
+Than Thai Asia;8041;# Negative Comments;1.0;0.0;deliverando
+Than Thai Asia;8041;# Positive Comments;1.0;1.0;deliverando
+Than Thai Asia;8041;% Kill Rate;127;112;deliverando
+Than Thai Asia;8041;Avg Time to Accept (s);38.0;36.0;deliverando
+Campuseck;8010;# Commissionable Orders;370.0;439.0;deliverando
+Campuseck;8010;Avg Basket Size €;17.38;18.36;deliverando
+Campuseck;8010;# Negative Comments;5.0;7.0;deliverando
+Campuseck;8010;# Positive Comments;1.0;1.0;deliverando
+Campuseck;8010;% Kill Rate;96;94;deliverando
+Campuseck;8010;Avg Time to Accept (s);17.0;14.0;deliverando
+Restaurant Z10;8010;# Commissionable Orders;1899.0;1859.0;deliverando
+Restaurant Z10;8010;Avg Basket Size €;23.53;23.99;deliverando
+Restaurant Z10;8010;# Negative Comments;4.0;7.0;deliverando
+Restaurant Z10;8010;# Positive Comments;1.0;1.0;deliverando
+Restaurant Z10;8010;% Kill Rate;63;0.06;deliverando
+Restaurant Z10;8010;Avg Time to Accept (s);15.0;14.0;deliverando
+The Perfect Bite;8020;# Commissionable Orders;80.0;76.0;deliverando
+The Perfect Bite;8020;Avg Basket Size €;21.62;22.42;deliverando
+The Perfect Bite;8020;# Negative Comments;2.0;0.0;deliverando
+The Perfect Bite;8020;# Positive Comments;1.0;1.0;deliverando
+The Perfect Bite;8020;% Kill Rate;111;111;deliverando
+The Perfect Bite;8020;Avg Time to Accept (s);49.0;63.0;deliverando
+Milu Milu Taiwanesisches Restaurant;8010;# Commissionable Orders;94.0;100.0;deliverando
+Milu Milu Taiwanesisches Restaurant;8010;Avg Basket Size €;28.38;30.31;deliverando
+Milu Milu Taiwanesisches Restaurant;8010;# Negative Comments;1.0;1.0;deliverando
+Milu Milu Taiwanesisches Restaurant;8010;# Positive Comments;1.0;1.0;deliverando
+Milu Milu Taiwanesisches Restaurant;8010;% Kill Rate;184;198;deliverando
+Milu Milu Taiwanesisches Restaurant;8010;Avg Time to Accept (s);13.0;14.0;deliverando
+Euroburger & Euronudel;8010;# Commissionable Orders;498.0;637.0;deliverando
+Euroburger & Euronudel;8010;Avg Basket Size €;16.85;17.92;deliverando
+Euroburger & Euronudel;8010;# Negative Comments;8.0;4.0;deliverando
+Euroburger & Euronudel;8010;# Positive Comments;1.0;1.0;deliverando
+Euroburger & Euronudel;8010;% Kill Rate;92;97;deliverando
+Euroburger & Euronudel;8010;Avg Time to Accept (s);16.0;15.0;deliverando
+Pizza & Burger;8020;# Commissionable Orders;360.0;508.0;deliverando
+Pizza & Burger;8020;Avg Basket Size €;15.92;16.48;deliverando
+Pizza & Burger;8020;# Negative Comments;3.0;2.0;deliverando
+Pizza & Burger;8020;# Positive Comments;1.0;1.0;deliverando
+Pizza & Burger;8020;% Kill Rate;79;74;deliverando
+Pizza & Burger;8020;Avg Time to Accept (s);19.0;17.0;deliverando
+Veggie+;8020;# Commissionable Orders;119.0;102.0;deliverando
+Veggie+;8020;Avg Basket Size €;17.43;16.6;deliverando
+Veggie+;8020;# Negative Comments;3.0;0.0;deliverando
+Veggie+;8020;# Positive Comments;1.0;1.0;deliverando
+Veggie+;8020;% Kill Rate;76;72;deliverando
+Veggie+;8020;Avg Time to Accept (s);331.0;341.0;deliverando
+Pizzaria Azzurro;8010;# Commissionable Orders;88.0;115.0;deliverando
+Pizzaria Azzurro;8010;Avg Basket Size €;20.07;20.76;deliverando
+Pizzaria Azzurro;8010;# Negative Comments;1.0;0.0;deliverando
+Pizzaria Azzurro;8010;# Positive Comments;1.0;1.0;deliverando
+Pizzaria Azzurro;8010;% Kill Rate;121;135;deliverando
+Pizzaria Azzurro;8010;Avg Time to Accept (s);160.0;51.0;deliverando
+Casa Mia;8020;# Commissionable Orders;178.0;101.0;deliverando
+Casa Mia;8020;Avg Basket Size €;19.74;20.18;deliverando
+Casa Mia;8020;# Negative Comments;1.0;2.0;deliverando
+Casa Mia;8020;# Positive Comments;1.0;1.0;deliverando
+Casa Mia;8020;% Kill Rate;58;0.04;deliverando
+Casa Mia;8020;Avg Time to Accept (s);22.0;34.0;deliverando
+Bellagio Uni4tel;8010;# Commissionable Orders;273.0;378.0;deliverando
+Bellagio Uni4tel;8010;Avg Basket Size €;22.36;23.35;deliverando
+Bellagio Uni4tel;8010;# Negative Comments;1.0;2.0;deliverando
+Bellagio Uni4tel;8010;# Positive Comments;1.0;1.0;deliverando
+Bellagio Uni4tel;8010;% Kill Rate;56;58;deliverando
+Bellagio Uni4tel;8010;Avg Time to Accept (s);16.0;16.0;deliverando
+Happy Burger;8020;# Commissionable Orders;330.0;451.0;deliverando
+Happy Burger;8020;Avg Basket Size €;21.46;23.11;deliverando
+Happy Burger;8020;# Negative Comments;1.0;1.0;deliverando
+Happy Burger;8020;# Positive Comments;1.0;1.0;deliverando
+Happy Burger;8020;% Kill Rate;65;59;deliverando
+Happy Burger;8020;Avg Time to Accept (s);18.0;21.0;deliverando
+X&D Wok;8020;# Commissionable Orders;66.0;64.0;deliverando
+X&D Wok;8020;Avg Basket Size €;21.53;19.98;deliverando
+X&D Wok;8020;# Negative Comments;0.0;0.0;deliverando
+X&D Wok;8020;# Positive Comments;1.0;1.0;deliverando
+X&D Wok;8020;% Kill Rate;71;68;deliverando
+X&D Wok;8020;Avg Time to Accept (s);516.0;513.0;deliverando
+Big Kebap Pizza & Burger;8053;# Commissionable Orders;537.0;591.0;deliverando
+Big Kebap Pizza & Burger;8053;Avg Basket Size €;17.65;17.37;deliverando
+Big Kebap Pizza & Burger;8053;# Negative Comments;3.0;8.0;deliverando
+Big Kebap Pizza & Burger;8053;# Positive Comments;1.0;1.0;deliverando
+Big Kebap Pizza & Burger;8053;% Kill Rate;53;56;deliverando
+Big Kebap Pizza & Burger;8053;Avg Time to Accept (s);11.0;9.0;deliverando
+Toscana;8054;# Commissionable Orders;184.0;202.0;deliverando
+Toscana;8054;Avg Basket Size €;14.73;14.77;deliverando
+Toscana;8054;# Negative Comments;1.0;1.0;deliverando
+Toscana;8054;# Positive Comments;1.0;1.0;deliverando
+Toscana;8054;% Kill Rate;53;68;deliverando
+Toscana;8054;Avg Time to Accept (s);20.0;18.0;deliverando
+Pizza Maxxx;8045;# Commissionable Orders;319.0;363.0;deliverando
+Pizza Maxxx;8045;Avg Basket Size €;21.59;23.22;deliverando
+Pizza Maxxx;8045;# Negative Comments;3.0;4.0;deliverando
+Pizza Maxxx;8045;# Positive Comments;1.0;1.0;deliverando
+Pizza Maxxx;8045;% Kill Rate;88;77;deliverando
+Pizza Maxxx;8045;Avg Time to Accept (s);18.0;18.0;deliverando
+Waltendorfer Kebab-Pizza;8010;# Commissionable Orders;265.0;268.0;deliverando
+Waltendorfer Kebab-Pizza;8010;Avg Basket Size €;16.83;16.75;deliverando
+Waltendorfer Kebab-Pizza;8010;# Negative Comments;2.0;0.0;deliverando
+Waltendorfer Kebab-Pizza;8010;# Positive Comments;1.0;1.0;deliverando
+Waltendorfer Kebab-Pizza;8010;% Kill Rate;59;62;deliverando
+Waltendorfer Kebab-Pizza;8010;Avg Time to Accept (s);19.0;21.0;deliverando
+dean & david Wels;8010;# Commissionable Orders;767.0;752.0;deliverando
+dean & david Wels;8010;Avg Basket Size €;26.48;26.1;deliverando
+dean & david Wels;8010;# Negative Comments;1.0;0.0;deliverando
+dean & david Wels;8010;# Positive Comments;1.0;1.0;deliverando
+dean & david Wels;8010;% Kill Rate;79;82;deliverando
+dean & david Wels;8010;Avg Time to Accept (s);19.0;19.0;deliverando
+Ristorante Pizzeria La Perla;8055;# Commissionable Orders;318.0;360.0;deliverando
+Ristorante Pizzeria La Perla;8055;Avg Basket Size €;18.36;18.39;deliverando
+Ristorante Pizzeria La Perla;8055;# Negative Comments;0.0;0.0;deliverando
+Ristorante Pizzeria La Perla;8055;# Positive Comments;1.0;1.0;deliverando
+Ristorante Pizzeria La Perla;8055;% Kill Rate;86;86;deliverando
+Ristorante Pizzeria La Perla;8055;Avg Time to Accept (s);9.0;10.0;deliverando
+Goldener Apfel;8010;# Commissionable Orders;6.0;1.0;deliverando
+Goldener Apfel;8010;# Negative Comments;0.0;0.0;deliverando
+Goldener Apfel;8010;# Positive Comments;1.0;0.0;deliverando
+Goldener Apfel;8010;% Kill Rate;79;93;deliverando
+Due Amici;8020;# Commissionable Orders;114.0;108.0;deliverando
+Due Amici;8020;Avg Basket Size €;20.5;18.26;deliverando
+Due Amici;8020;# Negative Comments;2.0;0.0;deliverando
+Due Amici;8020;# Positive Comments;1.0;1.0;deliverando
+Due Amici;8020;% Kill Rate;98;0.08;deliverando
+Due Amici;8020;Avg Time to Accept (s);333.0;446.0;deliverando
+Pizza Presto;8053;# Commissionable Orders;160.0;195.0;deliverando
+Pizza Presto;8053;Avg Basket Size €;23.42;22.02;deliverando
+Pizza Presto;8053;# Negative Comments;2.0;1.0;deliverando
+Pizza Presto;8053;# Positive Comments;1.0;1.0;deliverando
+Pizza Presto;8053;% Kill Rate;109;94;deliverando
+Pizza Presto;8053;Avg Time to Accept (s);21.0;23.0;deliverando
+Pizzeria Ristorante Da Vinci Linz;8010;# Commissionable Orders;1933.0;2180.0;deliverando
+Pizzeria Ristorante Da Vinci Linz;8010;Avg Basket Size €;20.42;21.52;deliverando
+Pizzeria Ristorante Da Vinci Linz;8010;# Negative Comments;7.0;10.0;deliverando
+Pizzeria Ristorante Da Vinci Linz;8010;# Positive Comments;1.0;1.0;deliverando
+Pizzeria Ristorante Da Vinci Linz;8010;% Kill Rate;51;47;deliverando
+Pizzeria Ristorante Da Vinci Linz;8010;Avg Time to Accept (s);16.0;13.0;deliverando
+Pizzeria Violeta;8010;# Commissionable Orders;624.0;634.0;deliverando
+Pizzeria Violeta;8010;Avg Basket Size €;21.1;21.05;deliverando
+Pizzeria Violeta;8010;# Negative Comments;0.0;1.0;deliverando
+Pizzeria Violeta;8010;# Positive Comments;1.0;1.0;deliverando
+Pizzeria Violeta;8010;% Kill Rate;84;76;deliverando
+Pizzeria Violeta;8010;Avg Time to Accept (s);10.0;10.0;deliverando
+Pizzeria Casa Roma;8010;# Commissionable Orders;827.0;918.0;deliverando
+Pizzeria Casa Roma;8010;Avg Basket Size €;17.19;17.21;deliverando
+Pizzeria Casa Roma;8010;# Negative Comments;6.0;9.0;deliverando
+Pizzeria Casa Roma;8010;# Positive Comments;1.0;1.0;deliverando
+Pizzeria Casa Roma;8010;% Kill Rate;79;86;deliverando
+Pizzeria Casa Roma;8010;Avg Time to Accept (s);16.0;15.0;deliverando
+Die Grüne Karotte;8010;# Commissionable Orders;12.0;115.0;deliverando
+Die Grüne Karotte;8010;Avg Basket Size €;23.43;18.32;deliverando
+Die Grüne Karotte;8010;# Negative Comments;0.0;1.0;deliverando
+Die Grüne Karotte;8010;# Positive Comments;1.0;1.0;deliverando
+Die Grüne Karotte;8010;% Kill Rate;83;93;deliverando
+Die Grüne Karotte;8010;Avg Time to Accept (s);640.0;440.0;deliverando
+Me Gusta;8042;# Commissionable Orders;387.0;453.0;deliverando
+Me Gusta;8042;Avg Basket Size €;21.52;22.19;deliverando
+Me Gusta;8042;# Negative Comments;0.0;2.0;deliverando
+Me Gusta;8042;# Positive Comments;1.0;1.0;deliverando
+Me Gusta;8042;% Kill Rate;71;65;deliverando
+Me Gusta;8042;Avg Time to Accept (s);18.0;19.0;deliverando
+Euro Pizza Kebap Burger;8010;# Commissionable Orders;320.0;215.0;deliverando
+Euro Pizza Kebap Burger;8010;Avg Basket Size €;17.75;18.84;deliverando
+Euro Pizza Kebap Burger;8010;# Negative Comments;1.0;1.0;deliverando
+Euro Pizza Kebap Burger;8010;# Positive Comments;1.0;1.0;deliverando
+Euro Pizza Kebap Burger;8010;% Kill Rate;59;57;deliverando
+Euro Pizza Kebap Burger;8010;Avg Time to Accept (s);9.0;9.0;deliverando
+Pizza Profi;8051;# Commissionable Orders;336.0;430.0;deliverando
+Pizza Profi;8051;Avg Basket Size €;18.24;17.87;deliverando
+Pizza Profi;8051;# Negative Comments;1.0;3.0;deliverando
+Pizza Profi;8051;# Positive Comments;1.0;1.0;deliverando
+Pizza Profi;8051;% Kill Rate;93;93;deliverando
+Pizza Profi;8051;Avg Time to Accept (s);14.0;14.0;deliverando
+Gössendorfer Haus Pizza Kebap;8041;# Commissionable Orders;41.0;68.0;deliverando
+Gössendorfer Haus Pizza Kebap;8041;Avg Basket Size €;21.71;21.55;deliverando
+Gössendorfer Haus Pizza Kebap;8041;# Negative Comments;1.0;0.0;deliverando
+Gössendorfer Haus Pizza Kebap;8041;# Positive Comments;1.0;1.0;deliverando
+Gössendorfer Haus Pizza Kebap;8041;% Kill Rate;94;75;deliverando
+Gössendorfer Haus Pizza Kebap;8041;Avg Time to Accept (s);15.0;14.0;deliverando
+Mistyria Cafe Restaurant;8010;# Commissionable Orders;38.0;150.0;deliverando
+Mistyria Cafe Restaurant;8010;Avg Basket Size €;15.72;13.51;deliverando
+Mistyria Cafe Restaurant;8010;# Negative Comments;2.0;3.0;deliverando
+Mistyria Cafe Restaurant;8010;# Positive Comments;1.0;1.0;deliverando
+Mistyria Cafe Restaurant;8010;% Kill Rate;89;78;deliverando
+Mistyria Cafe Restaurant;8010;Avg Time to Accept (s);17.0;17.0;deliverando
+Felice;8042;# Commissionable Orders;0.0;0.0;deliverando
+Felice;8042;# Negative Comments;0.0;0.0;deliverando
+Felice;8042;# Positive Comments;0.0;0.0;deliverando
+Alforno;8052;# Commissionable Orders;319.0;342.0;deliverando
+Alforno;8052;Avg Basket Size €;19.6;20.61;deliverando
+Alforno;8052;# Negative Comments;1.0;1.0;deliverando
+Alforno;8052;# Positive Comments;1.0;1.0;deliverando
+Alforno;8052;% Kill Rate;44;45;deliverando
+Alforno;8052;Avg Time to Accept (s);17.0;17.0;deliverando
+Elit Restaurant Pizza & Grill;8020;# Commissionable Orders;139.0;221.0;deliverando
+Elit Restaurant Pizza & Grill;8020;Avg Basket Size €;14.73;12.2;deliverando
+Elit Restaurant Pizza & Grill;8020;# Negative Comments;2.0;1.0;deliverando
+Elit Restaurant Pizza & Grill;8020;# Positive Comments;1.0;1.0;deliverando
+Elit Restaurant Pizza & Grill;8020;% Kill Rate;59;62;deliverando
+Elit Restaurant Pizza & Grill;8020;Avg Time to Accept (s);310.0;289.0;deliverando
+Casa Transilvania;8020;# Commissionable Orders;0.0;0.0;deliverando
+Casa Transilvania;8020;# Negative Comments;0.0;0.0;deliverando
+Casa Transilvania;8020;# Positive Comments;0.0;0.0;deliverando
+Yong Ramen;8010;# Commissionable Orders;11.0;0.0;deliverando
+Yong Ramen;8010;# Negative Comments;0.0;0.0;deliverando
+Yong Ramen;8010;# Positive Comments;0.0;0.0;deliverando
+Yong Ramen;8010;% Kill Rate;86;101;deliverando
+Zu den 3 goldenen Kugeln;8020;# Commissionable Orders;10.0;22.0;deliverando
+Zu den 3 goldenen Kugeln;8020;Avg Basket Size €;29.43;25.19;deliverando
+Zu den 3 goldenen Kugeln;8020;# Negative Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8020;# Positive Comments;0.0;1.0;deliverando
+Zu den 3 goldenen Kugeln;8020;% Kill Rate;0.03;48;deliverando
+Zu den 3 goldenen Kugeln;8020;Avg Time to Accept (s);156.0;641.0;deliverando
+Kolbe-Persisches Grillhaus;8020;# Commissionable Orders;47.0;67.0;deliverando
+Kolbe-Persisches Grillhaus;8020;Avg Basket Size €;26.25;22.82;deliverando
+Kolbe-Persisches Grillhaus;8020;# Negative Comments;0.0;0.0;deliverando
+Kolbe-Persisches Grillhaus;8020;# Positive Comments;1.0;1.0;deliverando
+Kolbe-Persisches Grillhaus;8020;% Kill Rate;147;0.15;deliverando
+Kolbe-Persisches Grillhaus;8020;Avg Time to Accept (s);23.0;18.0;deliverando
+Burger King;8010;# Commissionable Orders;212.0;309.0;deliverando
+Burger King;8010;Avg Basket Size €;23.35;24.3;deliverando
+Burger King;8010;# Negative Comments;3.0;1.0;deliverando
+Burger King;8010;# Positive Comments;1.0;1.0;deliverando
+Burger King;8010;% Kill Rate;39;54;deliverando
+Burger King;8010;Avg Time to Accept (s);10.0;10.0;deliverando
+LIU - authentisch asiatische Küche;8010;# Commissionable Orders;436.0;417.0;deliverando
+LIU - authentisch asiatische Küche;8010;Avg Basket Size €;26.53;27.16;deliverando
+LIU - authentisch asiatische Küche;8010;# Negative Comments;3.0;2.0;deliverando
+LIU - authentisch asiatische Küche;8010;# Positive Comments;1.0;1.0;deliverando
+LIU - authentisch asiatische Küche;8010;% Kill Rate;83;84;deliverando
+LIU - authentisch asiatische Küche;8010;Avg Time to Accept (s);452.0;484.0;deliverando
+Burger King;8055;# Commissionable Orders;129.0;132.0;deliverando
+Burger King;8055;Avg Basket Size €;26.38;25.71;deliverando
+Burger King;8055;# Negative Comments;1.0;3.0;deliverando
+Burger King;8055;# Positive Comments;1.0;1.0;deliverando
+Burger King;8055;% Kill Rate;58;0.06;deliverando
+Burger King;8055;Avg Time to Accept (s);28.0;21.0;deliverando
+Burger King;8010;# Commissionable Orders;761.0;849.0;deliverando
+Burger King;8010;Avg Basket Size €;21.84;22.03;deliverando
+Burger King;8010;# Negative Comments;1.0;5.0;deliverando
+Burger King;8010;# Positive Comments;1.0;1.0;deliverando
+Burger King;8010;% Kill Rate;33;36;deliverando
+Burger King;8010;Avg Time to Accept (s);444.0;565.0;deliverando
+Das Maxxx;8045;# Commissionable Orders;137.0;133.0;deliverando
+Das Maxxx;8045;Avg Basket Size €;25.51;26.9;deliverando
+Das Maxxx;8045;# Negative Comments;1.0;0.0;deliverando
+Das Maxxx;8045;# Positive Comments;1.0;1.0;deliverando
+Das Maxxx;8045;% Kill Rate;108;104;deliverando
+Das Maxxx;8045;Avg Time to Accept (s);17.0;17.0;deliverando
+Santa Catharina;8010;# Commissionable Orders;17.0;3.0;deliverando
+Santa Catharina;8010;Avg Basket Size €;20.99;19.05;deliverando
+Santa Catharina;8010;# Negative Comments;0.0;0.0;deliverando
+Santa Catharina;8010;# Positive Comments;1.0;0.0;deliverando
+Santa Catharina;8010;% Kill Rate;167;134;deliverando
+Santa Catharina;8010;Avg Time to Accept (s);569.0;513.0;deliverando
+my Kentt Pizza & Kebap;8054;# Commissionable Orders;172.0;201.0;deliverando
+my Kentt Pizza & Kebap;8054;Avg Basket Size €;16.18;19.56;deliverando
+my Kentt Pizza & Kebap;8054;# Negative Comments;1.0;2.0;deliverando
+my Kentt Pizza & Kebap;8054;# Positive Comments;1.0;1.0;deliverando
+my Kentt Pizza & Kebap;8054;% Kill Rate;89;93;deliverando
+my Kentt Pizza & Kebap;8054;Avg Time to Accept (s);12.0;13.0;deliverando
+NORDSEE;8010;# Commissionable Orders;15.0;30.0;deliverando
+NORDSEE;8010;Avg Basket Size €;19.83;22.29;deliverando
+NORDSEE;8010;# Negative Comments;0.0;0.0;deliverando
+NORDSEE;8010;# Positive Comments;1.0;1.0;deliverando
+NORDSEE;8010;% Kill Rate;53;42;deliverando
+NORDSEE;8010;Avg Time to Accept (s);308.0;390.0;deliverando
+Noodle House;8010;# Commissionable Orders;183.0;112.0;deliverando
+Noodle House;8010;Avg Basket Size €;15.3;14.91;deliverando
+Noodle House;8010;# Negative Comments;0.0;0.0;deliverando
+Noodle House;8010;# Positive Comments;1.0;1.0;deliverando
+Noodle House;8010;% Kill Rate;83;93;deliverando
+Noodle House;8010;Avg Time to Accept (s);477.0;517.0;deliverando
+Cevabdzinica Hodzic - Balkan Spezialitäten;8020;# Commissionable Orders;9.0;0.0;deliverando
+Cevabdzinica Hodzic - Balkan Spezialitäten;8020;# Negative Comments;0.0;0.0;deliverando
+Cevabdzinica Hodzic - Balkan Spezialitäten;8020;# Positive Comments;0.0;0.0;deliverando
+Cevabdzinica Hodzic - Balkan Spezialitäten;8020;% Kill Rate;0.1;106;deliverando
+Cafe Abol;8010;# Commissionable Orders;36.0;49.0;deliverando
+Cafe Abol;8010;Avg Basket Size €;18.02;22.04;deliverando
+Cafe Abol;8010;# Negative Comments;0.0;0.0;deliverando
+Cafe Abol;8010;# Positive Comments;1.0;1.0;deliverando
+Cafe Abol;8010;% Kill Rate;112;97;deliverando
+Cafe Abol;8010;Avg Time to Accept (s);337.0;517.0;deliverando
+Restaurant Hendl-Eck;8010;# Commissionable Orders;502.0;474.0;deliverando
+Restaurant Hendl-Eck;8010;Avg Basket Size €;22.53;21.49;deliverando
+Restaurant Hendl-Eck;8010;# Negative Comments;2.0;1.0;deliverando
+Restaurant Hendl-Eck;8010;# Positive Comments;1.0;1.0;deliverando
+Restaurant Hendl-Eck;8010;% Kill Rate;36;36;deliverando
+Restaurant Hendl-Eck;8010;Avg Time to Accept (s);332.0;347.0;deliverando
+Tasty Donuts & Coffee;8010;# Commissionable Orders;54.0;20.0;deliverando
+Tasty Donuts & Coffee;8010;Avg Basket Size €;12.68;13.94;deliverando
+Tasty Donuts & Coffee;8010;# Negative Comments;0.0;0.0;deliverando
+Tasty Donuts & Coffee;8010;# Positive Comments;1.0;1.0;deliverando
+Tasty Donuts & Coffee;8010;% Kill Rate;47;65;deliverando
+Tasty Donuts & Coffee;8010;Avg Time to Accept (s);530.0;575.0;deliverando
+Zu den 3 goldenen Kugeln;8010;# Commissionable Orders;387.0;341.0;deliverando
+Zu den 3 goldenen Kugeln;8010;Avg Basket Size €;26.24;26.76;deliverando
+Zu den 3 goldenen Kugeln;8010;# Negative Comments;1.0;3.0;deliverando
+Zu den 3 goldenen Kugeln;8010;# Positive Comments;1.0;1.0;deliverando
+Zu den 3 goldenen Kugeln;8010;% Kill Rate;43;48;deliverando
+Zu den 3 goldenen Kugeln;8010;Avg Time to Accept (s);478.0;417.0;deliverando
+Lend Kebap Pizza & Pasta;8020;# Commissionable Orders;261.0;329.0;deliverando
+Lend Kebap Pizza & Pasta;8020;Avg Basket Size €;14.63;13.01;deliverando
+Lend Kebap Pizza & Pasta;8020;# Negative Comments;1.0;2.0;deliverando
+Lend Kebap Pizza & Pasta;8020;# Positive Comments;1.0;1.0;deliverando
+Lend Kebap Pizza & Pasta;8020;% Kill Rate;32;31;deliverando
+Lend Kebap Pizza & Pasta;8020;Avg Time to Accept (s);415.0;409.0;deliverando
+Peppone;8010;# Commissionable Orders;1.0;0.0;deliverando
+Peppone;8010;# Negative Comments;0.0;0.0;deliverando
+Peppone;8010;# Positive Comments;0.0;0.0;deliverando
+Peppone;8010;% Kill Rate;198;173;deliverando
+Asia Today - Asien zum Anbeißen ;8020;# Commissionable Orders;34.0;42.0;deliverando
+Asia Today - Asien zum Anbeißen ;8020;Avg Basket Size €;21.52;18.48;deliverando
+Asia Today - Asien zum Anbeißen ;8020;# Negative Comments;0.0;0.0;deliverando
+Asia Today - Asien zum Anbeißen ;8020;# Positive Comments;1.0;1.0;deliverando
+Asia Today - Asien zum Anbeißen ;8020;% Kill Rate;99;113;deliverando
+Asia Today - Asien zum Anbeißen ;8020;Avg Time to Accept (s);423.0;399.0;deliverando
+Swing Kitchen;8010;# Commissionable Orders;1982.0;1913.0;deliverando
+Swing Kitchen;8010;Avg Basket Size €;23.67;23.7;deliverando
+Swing Kitchen;8010;# Negative Comments;0.0;2.0;deliverando
+Swing Kitchen;8010;# Positive Comments;1.0;1.0;deliverando
+Swing Kitchen;8010;% Kill Rate;65;65;deliverando
+Swing Kitchen;8010;Avg Time to Accept (s);402.0;405.0;deliverando
+Gösser Stüberl;8010;# Commissionable Orders;399.0;354.0;deliverando
+Gösser Stüberl;8010;Avg Basket Size €;25.46;27.02;deliverando
+Gösser Stüberl;8010;# Negative Comments;1.0;2.0;deliverando
+Gösser Stüberl;8010;# Positive Comments;1.0;1.0;deliverando
+Gösser Stüberl;8010;% Kill Rate;54;45;deliverando
+Gösser Stüberl;8010;Avg Time to Accept (s);16.0;17.0;deliverando
+Than Thai Imbiss;8010;# Commissionable Orders;16.0;54.0;deliverando
+Than Thai Imbiss;8010;Avg Basket Size €;25.06;20.89;deliverando
+Than Thai Imbiss;8010;# Negative Comments;0.0;1.0;deliverando
+Than Thai Imbiss;8010;# Positive Comments;1.0;1.0;deliverando
+Than Thai Imbiss;8010;% Kill Rate;16;47;deliverando
+Than Thai Imbiss;8010;Avg Time to Accept (s);331.0;464.0;deliverando
+Meranos Burgers & More;8010;# Commissionable Orders;63.0;69.0;deliverando
+Meranos Burgers & More;8010;Avg Basket Size €;23.01;24.23;deliverando
+Meranos Burgers & More;8010;# Negative Comments;1.0;0.0;deliverando
+Meranos Burgers & More;8010;# Positive Comments;1.0;1.0;deliverando
+Meranos Burgers & More;8010;Avg Time to Accept (s);392.0;614.0;deliverando
+NAM Vietnamese Street Food;8010;# Commissionable Orders;311.0;212.0;deliverando
+NAM Vietnamese Street Food;8010;Avg Basket Size €;22.13;22.08;deliverando
+NAM Vietnamese Street Food;8010;# Negative Comments;2.0;2.0;deliverando
+NAM Vietnamese Street Food;8010;# Positive Comments;1.0;1.0;deliverando
+NAM Vietnamese Street Food;8010;% Kill Rate;59;69;deliverando
+NAM Vietnamese Street Food;8010;Avg Time to Accept (s);475.0;523.0;deliverando
+Best Food Grill;8051;# Commissionable Orders;136.0;153.0;deliverando
+Best Food Grill;8051;Avg Basket Size €;22.53;22.56;deliverando
+Best Food Grill;8051;# Negative Comments;0.0;1.0;deliverando
+Best Food Grill;8051;# Positive Comments;1.0;1.0;deliverando
+Best Food Grill;8051;% Kill Rate;53;62;deliverando
+Best Food Grill;8051;Avg Time to Accept (s);10.0;11.0;deliverando
+Draxler Geflügel;8010;# Commissionable Orders;72.0;119.0;deliverando
+Draxler Geflügel;8010;Avg Basket Size €;19.27;15.73;deliverando
+Draxler Geflügel;8010;# Negative Comments;0.0;0.0;deliverando
+Draxler Geflügel;8010;# Positive Comments;1.0;1.0;deliverando
+Draxler Geflügel;8010;% Kill Rate;0.04;36;deliverando
+Draxler Geflügel;8010;Avg Time to Accept (s);452.0;430.0;deliverando
+Murphy's Sports Bar;8010;# Commissionable Orders;0.0;0.0;deliverando
+Murphy's Sports Bar;8010;# Negative Comments;0.0;0.0;deliverando
+Murphy's Sports Bar;8010;# Positive Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8020;# Commissionable Orders;131.0;124.0;deliverando
+Zu den 3 goldenen Kugeln;8020;Avg Basket Size €;28.33;26.77;deliverando
+Zu den 3 goldenen Kugeln;8020;# Negative Comments;1.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8020;# Positive Comments;1.0;1.0;deliverando
+Zu den 3 goldenen Kugeln;8020;% Kill Rate;59;44;deliverando
+Zu den 3 goldenen Kugeln;8020;Avg Time to Accept (s);488.0;404.0;deliverando
+Granola;8020;# Commissionable Orders;166.0;154.0;deliverando
+Granola;8020;Avg Basket Size €;29.53;30.88;deliverando
+Granola;8020;# Negative Comments;0.0;2.0;deliverando
+Granola;8020;# Positive Comments;1.0;1.0;deliverando
+Granola;8020;% Kill Rate;93;95;deliverando
+Granola;8020;Avg Time to Accept (s);458.0;407.0;deliverando
+Burgerista;8010;# Commissionable Orders;841.0;682.0;deliverando
+Burgerista;8010;Avg Basket Size €;23.04;23.47;deliverando
+Burgerista;8010;# Negative Comments;7.0;2.0;deliverando
+Burgerista;8010;# Positive Comments;1.0;1.0;deliverando
+Burgerista;8010;% Kill Rate;63;74;deliverando
+Burgerista;8010;Avg Time to Accept (s);462.0;478.0;deliverando
+McDonald's®;8010;# Commissionable Orders;2508.0;2038.0;deliverando
+McDonald's®;8010;Avg Basket Size €;21.26;21.85;deliverando
+McDonald's®;8010;# Negative Comments;12.0;9.0;deliverando
+McDonald's®;8010;# Positive Comments;1.0;1.0;deliverando
+McDonald's®;8010;% Kill Rate;31;36;deliverando
+McDonald's®;8010;Avg Time to Accept (s);444.0;640.0;deliverando
+McDonald's®;8010;# Commissionable Orders;1044.0;977.0;deliverando
+McDonald's®;8010;Avg Basket Size €;21.76;22.79;deliverando
+McDonald's®;8010;# Negative Comments;11.0;7.0;deliverando
+McDonald's®;8010;# Positive Comments;1.0;1.0;deliverando
+McDonald's®;8010;% Kill Rate;61;0.06;deliverando
+McDonald's®;8010;Avg Time to Accept (s);581.0;730.0;deliverando
+McDonald's®;8020;# Commissionable Orders;551.0;458.0;deliverando
+McDonald's®;8020;Avg Basket Size €;22.58;23.69;deliverando
+McDonald's®;8020;# Negative Comments;6.0;3.0;deliverando
+McDonald's®;8020;# Positive Comments;1.0;1.0;deliverando
+McDonald's®;8020;% Kill Rate;49;0.05;deliverando
+McDonald's®;8020;Avg Time to Accept (s);627.0;905.0;deliverando
+McDonald's®;8020;# Commissionable Orders;1226.0;1023.0;deliverando
+McDonald's®;8020;Avg Basket Size €;21.96;21.88;deliverando
+McDonald's®;8020;# Negative Comments;7.0;2.0;deliverando
+McDonald's®;8020;# Positive Comments;1.0;1.0;deliverando
+McDonald's®;8020;% Kill Rate;37;39;deliverando
+McDonald's®;8020;Avg Time to Accept (s);511.0;629.0;deliverando
+Burger Eck am Jako;8010;# Commissionable Orders;3.0;38.0;deliverando
+Burger Eck am Jako;8010;Avg Basket Size €;23.23;19.74;deliverando
+Burger Eck am Jako;8010;# Negative Comments;0.0;1.0;deliverando
+Burger Eck am Jako;8010;# Positive Comments;0.0;1.0;deliverando
+Burger Eck am Jako;8010;% Kill Rate;97;78;deliverando
+Burger Eck am Jako;8010;Avg Time to Accept (s);359.0;546.0;deliverando
+Taj Restaurant;8010;# Commissionable Orders;22.0;24.0;deliverando
+Taj Restaurant;8010;Avg Basket Size €;30.91;30.16;deliverando
+Taj Restaurant;8010;# Negative Comments;0.0;0.0;deliverando
+Taj Restaurant;8010;# Positive Comments;1.0;1.0;deliverando
+Taj Restaurant;8010;% Kill Rate;163;0.14;deliverando
+Taj Restaurant;8010;Avg Time to Accept (s);12.0;14.0;deliverando
+Peri - Peri Chicken & Burger;8010;# Commissionable Orders;260.0;241.0;deliverando
+Peri - Peri Chicken & Burger;8010;Avg Basket Size €;19.42;18.61;deliverando
+Peri - Peri Chicken & Burger;8010;# Negative Comments;2.0;3.0;deliverando
+Peri - Peri Chicken & Burger;8010;# Positive Comments;1.0;1.0;deliverando
+Peri - Peri Chicken & Burger;8010;% Kill Rate;0.09;96;deliverando
+Peri - Peri Chicken & Burger;8010;Avg Time to Accept (s);19.0;25.0;deliverando
+Meet Me There;8020;# Commissionable Orders;15.0;11.0;deliverando
+Meet Me There;8020;Avg Basket Size €;17.84;18.5;deliverando
+Meet Me There;8020;# Negative Comments;0.0;0.0;deliverando
+Meet Me There;8020;# Positive Comments;0.0;0.0;deliverando
+Meet Me There;8020;Avg Time to Accept (s);372.0;283.0;deliverando
+Beste Freunde - Burgergrill;8020;# Commissionable Orders;993.0;953.0;deliverando
+Beste Freunde - Burgergrill;8020;Avg Basket Size €;19.81;20.52;deliverando
+Beste Freunde - Burgergrill;8020;# Negative Comments;11.0;8.0;deliverando
+Beste Freunde - Burgergrill;8020;# Positive Comments;1.0;1.0;deliverando
+Beste Freunde - Burgergrill;8020;% Kill Rate;0.1;95;deliverando
+Beste Freunde - Burgergrill;8020;Avg Time to Accept (s);16.0;16.0;deliverando
+Paradiso;8010;# Commissionable Orders;0.0;0.0;deliverando
+Paradiso;8010;# Negative Comments;0.0;0.0;deliverando
+Paradiso;8010;# Positive Comments;0.0;0.0;deliverando
+Burger King;8010;# Commissionable Orders;152.0;116.0;deliverando
+Burger King;8010;Avg Basket Size €;27.63;28.11;deliverando
+Burger King;8010;# Negative Comments;2.0;2.0;deliverando
+Burger King;8010;# Positive Comments;1.0;1.0;deliverando
+Burger King;8010;% Kill Rate;84;75;deliverando
+Burger King;8010;Avg Time to Accept (s);12.0;14.0;deliverando
+the italian;8020;# Commissionable Orders;59.0;131.0;deliverando
+the italian;8020;Avg Basket Size €;21.86;22.15;deliverando
+the italian;8020;# Negative Comments;1.0;0.0;deliverando
+the italian;8020;# Positive Comments;1.0;1.0;deliverando
+the italian;8020;Avg Time to Accept (s);381.0;433.0;deliverando
+Akakiko;8010;# Commissionable Orders;481.0;405.0;deliverando
+Akakiko;8010;Avg Basket Size €;30.43;31.57;deliverando
+Akakiko;8010;# Negative Comments;1.0;1.0;deliverando
+Akakiko;8010;# Positive Comments;1.0;1.0;deliverando
+Akakiko;8010;% Kill Rate;107;105;deliverando
+Akakiko;8010;Avg Time to Accept (s);499.0;600.0;deliverando
+L'Osteria;8010;# Commissionable Orders;1017.0;840.0;deliverando
+L'Osteria;8010;Avg Basket Size €;25.76;25.97;deliverando
+L'Osteria;8010;# Negative Comments;7.0;5.0;deliverando
+L'Osteria;8010;# Positive Comments;1.0;1.0;deliverando
+L'Osteria;8010;% Kill Rate;98;101;deliverando
+L'Osteria;8010;Avg Time to Accept (s);263.0;264.0;deliverando
+Best Food Grill 5;8010;# Commissionable Orders;109.0;72.0;deliverando
+Best Food Grill 5;8010;Avg Basket Size €;23.24;23.8;deliverando
+Best Food Grill 5;8010;# Negative Comments;1.0;0.0;deliverando
+Best Food Grill 5;8010;# Positive Comments;1.0;1.0;deliverando
+Best Food Grill 5;8010;% Kill Rate;36;39;deliverando
+Best Food Grill 5;8010;Avg Time to Accept (s);16.0;15.0;deliverando
+Emy's Pizza & Kebaphaus;8010;# Commissionable Orders;0.0;14.0;deliverando
+Emy's Pizza & Kebaphaus;8010;# Negative Comments;0.0;0.0;deliverando
+Emy's Pizza & Kebaphaus;8010;# Positive Comments;0.0;1.0;deliverando
+Emy's Pizza & Kebaphaus;8010;% Kill Rate;16;25;deliverando
+Pizzeria Pisa;8020;# Commissionable Orders;84.0;116.0;deliverando
+Pizzeria Pisa;8020;Avg Basket Size €;16.74;17.29;deliverando
+Pizzeria Pisa;8020;# Negative Comments;0.0;1.0;deliverando
+Pizzeria Pisa;8020;# Positive Comments;0.0;1.0;deliverando
+Pizzeria Pisa;8020;% Kill Rate;113;102;deliverando
+Pizzeria Pisa;8020;Avg Time to Accept (s);18.0;16.0;deliverando
+Captains Pizzeria;8055;# Commissionable Orders;275.0;193.0;deliverando
+Captains Pizzeria;8055;Avg Basket Size €;22.0;22.62;deliverando
+Captains Pizzeria;8055;# Negative Comments;3.0;0.0;deliverando
+Captains Pizzeria;8055;# Positive Comments;1.0;1.0;deliverando
+Captains Pizzeria;8055;% Kill Rate;0.06;0.06;deliverando
+Captains Pizzeria;8055;Avg Time to Accept (s);15.0;15.0;deliverando
+Amando;8041;# Commissionable Orders;0.0;0.0;deliverando
+Amando;8041;# Negative Comments;0.0;0.0;deliverando
+Amando;8041;# Positive Comments;0.0;0.0;deliverando
+Amando;8041;% Kill Rate;106;75;deliverando
+Cook Moon;8010;# Commissionable Orders;0.0;0.0;deliverando
+Cook Moon;8010;# Negative Comments;0.0;0.0;deliverando
+Cook Moon;8010;# Positive Comments;0.0;0.0;deliverando
+Liebenauer Hof;8010;# Commissionable Orders;0.0;0.0;deliverando
+Liebenauer Hof;8010;# Negative Comments;0.0;0.0;deliverando
+Liebenauer Hof;8010;# Positive Comments;0.0;0.0;deliverando
+KFC;8020;# Commissionable Orders;1244.0;1057.0;deliverando
+KFC;8020;Avg Basket Size €;16.03;16.68;deliverando
+KFC;8020;# Negative Comments;13.0;10.0;deliverando
+KFC;8020;# Positive Comments;1.0;1.0;deliverando
+KFC;8020;% Kill Rate;49;46;deliverando
+KFC;8020;Avg Time to Accept (s);305.0;300.0;deliverando
+Best Food Grill 1;8020;# Commissionable Orders;90.0;98.0;deliverando
+Best Food Grill 1;8020;Avg Basket Size €;20.81;20.19;deliverando
+Best Food Grill 1;8020;# Negative Comments;0.0;0.0;deliverando
+Best Food Grill 1;8020;# Positive Comments;1.0;1.0;deliverando
+Best Food Grill 1;8020;% Kill Rate;77;65;deliverando
+Best Food Grill 1;8020;Avg Time to Accept (s);10.0;11.0;deliverando
+Subway;8020;# Commissionable Orders;236.0;181.0;deliverando
+Subway;8020;Avg Basket Size €;17.64;18.31;deliverando
+Subway;8020;# Negative Comments;0.0;1.0;deliverando
+Subway;8020;# Positive Comments;1.0;1.0;deliverando
+Subway;8020;% Kill Rate;19;26;deliverando
+Subway;8020;Avg Time to Accept (s);445.0;506.0;deliverando
+Östa Konditorei und Cafe;8020;# Commissionable Orders;0.0;0.0;deliverando
+Östa Konditorei und Cafe;8020;# Negative Comments;0.0;0.0;deliverando
+Östa Konditorei und Cafe;8020;# Positive Comments;0.0;0.0;deliverando
+Ankara Grill Haus;8010;# Commissionable Orders;199.0;191.0;deliverando
+Ankara Grill Haus;8010;Avg Basket Size €;12.8;12.93;deliverando
+Ankara Grill Haus;8010;# Negative Comments;0.0;4.0;deliverando
+Ankara Grill Haus;8010;# Positive Comments;1.0;1.0;deliverando
+Ankara Grill Haus;8010;% Kill Rate;35;38;deliverando
+Ankara Grill Haus;8010;Avg Time to Accept (s);441.0;518.0;deliverando
+Vapiano;8010;# Commissionable Orders;261.0;267.0;deliverando
+Vapiano;8010;Avg Basket Size €;27.7;27.52;deliverando
+Vapiano;8010;# Negative Comments;4.0;3.0;deliverando
+Vapiano;8010;# Positive Comments;1.0;1.0;deliverando
+Vapiano;8010;% Kill Rate;144;142;deliverando
+Vapiano;8010;Avg Time to Accept (s);447.0;454.0;deliverando
+Eiscafe Roma;8010;# Commissionable Orders;35.0;19.0;deliverando
+Eiscafe Roma;8010;Avg Basket Size €;15.73;17.08;deliverando
+Eiscafe Roma;8010;# Negative Comments;0.0;0.0;deliverando
+Eiscafe Roma;8010;# Positive Comments;1.0;1.0;deliverando
+Eiscafe Roma;8010;% Kill Rate;58;54;deliverando
+Eiscafe Roma;8010;Avg Time to Accept (s);575.0;840.0;deliverando
+Adelphia;8010;# Commissionable Orders;78.0;69.0;deliverando
+Adelphia;8010;Avg Basket Size €;15.18;14.4;deliverando
+Adelphia;8010;# Negative Comments;0.0;0.0;deliverando
+Adelphia;8010;# Positive Comments;1.0;1.0;deliverando
+Adelphia;8010;% Kill Rate;0.07;71;deliverando
+Adelphia;8010;Avg Time to Accept (s);462.0;512.0;deliverando
+Moserhofstub'n im Wirtshaus zum Ganster;8010;# Commissionable Orders;22.0;3.0;deliverando
+Moserhofstub'n im Wirtshaus zum Ganster;8010;# Negative Comments;1.0;0.0;deliverando
+Moserhofstub'n im Wirtshaus zum Ganster;8010;# Positive Comments;1.0;0.0;deliverando
+Moserhofstub'n im Wirtshaus zum Ganster;8010;% Kill Rate;0.03;24;deliverando
+Subway;8010;# Commissionable Orders;19.0;91.0;deliverando
+Subway;8010;Avg Basket Size €;18.78;18.45;deliverando
+Subway;8010;# Negative Comments;0.0;0.0;deliverando
+Subway;8010;# Positive Comments;0.0;1.0;deliverando
+Subway;8010;% Kill Rate;45;34;deliverando
+Subway;8010;Avg Time to Accept (s);17.0;610.0;deliverando
+Mumbai Cuisine;8010;# Commissionable Orders;16.0;10.0;deliverando
+Mumbai Cuisine;8010;Avg Basket Size €;16.94;21.01;deliverando
+Mumbai Cuisine;8010;# Negative Comments;0.0;0.0;deliverando
+Mumbai Cuisine;8010;# Positive Comments;1.0;0.0;deliverando
+Mumbai Cuisine;8010;Avg Time to Accept (s);669.0;563.0;deliverando
+L'Enoteca dei Ciclopi;8010;# Commissionable Orders;0.0;0.0;deliverando
+L'Enoteca dei Ciclopi;8010;# Negative Comments;0.0;0.0;deliverando
+L'Enoteca dei Ciclopi;8010;# Positive Comments;0.0;0.0;deliverando
+Halici - Cafe Kebaphaus;8020;# Commissionable Orders;87.0;52.0;deliverando
+Halici - Cafe Kebaphaus;8020;Avg Basket Size €;9.23;10.9;deliverando
+Halici - Cafe Kebaphaus;8020;# Negative Comments;0.0;0.0;deliverando
+Halici - Cafe Kebaphaus;8020;# Positive Comments;1.0;1.0;deliverando
+Halici - Cafe Kebaphaus;8020;% Kill Rate;18;27;deliverando
+Halici - Cafe Kebaphaus;8020;Avg Time to Accept (s);465.0;422.0;deliverando
+SO/SO;8010;# Commissionable Orders;2.0;6.0;deliverando
+SO/SO;8010;Avg Basket Size €;11.9;18.77;deliverando
+SO/SO;8010;# Negative Comments;0.0;0.0;deliverando
+SO/SO;8010;# Positive Comments;0.0;1.0;deliverando
+SO/SO;8010;% Kill Rate;82;69;deliverando
+SO/SO;8010;Avg Time to Accept (s);376.0;373.0;deliverando
+Bierbaron;8010;# Commissionable Orders;72.0;144.0;deliverando
+Bierbaron;8010;Avg Basket Size €;16.0;13.69;deliverando
+Bierbaron;8010;# Negative Comments;0.0;0.0;deliverando
+Bierbaron;8010;# Positive Comments;1.0;1.0;deliverando
+Bierbaron;8010;% Kill Rate;72;58;deliverando
+Bierbaron;8010;Avg Time to Accept (s);362.0;463.0;deliverando
+Pizzeria Ristorante Zeppelin;8010;# Commissionable Orders;99.0;158.0;deliverando
+Pizzeria Ristorante Zeppelin;8010;Avg Basket Size €;16.37;15.56;deliverando
+Pizzeria Ristorante Zeppelin;8010;# Negative Comments;2.0;0.0;deliverando
+Pizzeria Ristorante Zeppelin;8010;# Positive Comments;1.0;1.0;deliverando
+Pizzeria Ristorante Zeppelin;8010;% Kill Rate;65;63;deliverando
+Pizzeria Ristorante Zeppelin;8010;Avg Time to Accept (s);450.0;423.0;deliverando
+Continuum;8010;# Commissionable Orders;56.0;64.0;deliverando
+Continuum;8010;Avg Basket Size €;17.8;15.7;deliverando
+Continuum;8010;# Negative Comments;0.0;2.0;deliverando
+Continuum;8010;# Positive Comments;1.0;1.0;deliverando
+Continuum;8010;% Kill Rate;93;87;deliverando
+Continuum;8010;Avg Time to Accept (s);444.0;449.0;deliverando
+Isaan Thai;8010;# Commissionable Orders;117.0;131.0;deliverando
+Isaan Thai;8010;Avg Basket Size €;26.63;25.08;deliverando
+Isaan Thai;8010;# Negative Comments;0.0;0.0;deliverando
+Isaan Thai;8010;# Positive Comments;1.0;1.0;deliverando
+Isaan Thai;8010;% Kill Rate;118;109;deliverando
+Isaan Thai;8010;Avg Time to Accept (s);424.0;503.0;deliverando
+Venezia Star;8020;# Commissionable Orders;7.0;8.0;deliverando
+Venezia Star;8020;Avg Basket Size €;16.84;16.09;deliverando
+Venezia Star;8020;# Negative Comments;0.0;0.0;deliverando
+Venezia Star;8020;# Positive Comments;1.0;1.0;deliverando
+Venezia Star;8020;% Kill Rate;135;64;deliverando
+Venezia Star;8020;Avg Time to Accept (s);458.0;334.0;deliverando
+Konoba Kroatien;8010;# Commissionable Orders;9.0;8.0;deliverando
+Konoba Kroatien;8010;Avg Basket Size €;17.46;18.74;deliverando
+Konoba Kroatien;8010;# Negative Comments;1.0;0.0;deliverando
+Konoba Kroatien;8010;# Positive Comments;0.0;1.0;deliverando
+Konoba Kroatien;8010;Avg Time to Accept (s);613.0;380.0;deliverando
+McDonald's®;8054;# Commissionable Orders;1010.0;903.0;deliverando
+McDonald's®;8054;Avg Basket Size €;23.97;23.81;deliverando
+McDonald's®;8054;# Negative Comments;7.0;7.0;deliverando
+McDonald's®;8054;# Positive Comments;1.0;1.0;deliverando
+McDonald's®;8054;% Kill Rate;55;58;deliverando
+McDonald's®;8054;Avg Time to Accept (s);500.0;501.0;deliverando
+Confiserie Heindl;8010;# Commissionable Orders;7.0;8.0;deliverando
+Confiserie Heindl;8010;Avg Basket Size €;14.98;32.23;deliverando
+Confiserie Heindl;8010;# Negative Comments;0.0;0.0;deliverando
+Confiserie Heindl;8010;# Positive Comments;0.0;0.0;deliverando
+Confiserie Heindl;8010;% Kill Rate;91;154;deliverando
+Confiserie Heindl;8010;Avg Time to Accept (s);915.0;633.0;deliverando
+China Restaurant Sichuan;8020;# Commissionable Orders;39.0;38.0;deliverando
+China Restaurant Sichuan;8020;Avg Basket Size €;27.24;28.08;deliverando
+China Restaurant Sichuan;8020;# Negative Comments;0.0;1.0;deliverando
+China Restaurant Sichuan;8020;# Positive Comments;1.0;1.0;deliverando
+China Restaurant Sichuan;8020;% Kill Rate;125;143;deliverando
+China Restaurant Sichuan;8020;Avg Time to Accept (s);476.0;511.0;deliverando
+Zu den 3 goldenen Kugeln;8041;# Commissionable Orders;14.0;10.0;deliverando
+Zu den 3 goldenen Kugeln;8041;Avg Basket Size €;38.3;28.3;deliverando
+Zu den 3 goldenen Kugeln;8041;# Negative Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8041;# Positive Comments;1.0;1.0;deliverando
+Zu den 3 goldenen Kugeln;8041;% Kill Rate;0.1;125;deliverando
+Zu den 3 goldenen Kugeln;8041;Avg Time to Accept (s);1951.0;877.0;deliverando
+Zu den 3 goldenen Kugeln;8055;# Commissionable Orders;1.0;5.0;deliverando
+Zu den 3 goldenen Kugeln;8055;# Negative Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8055;# Positive Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8055;# Commissionable Orders;14.0;13.0;deliverando
+Zu den 3 goldenen Kugeln;8055;# Negative Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8055;# Positive Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8055;% Kill Rate;163;178;deliverando
+Granola;8054;# Commissionable Orders;0.0;13.0;deliverando
+Granola;8054;# Negative Comments;0.0;0.0;deliverando
+Granola;8054;# Positive Comments;0.0;0.0;deliverando
+Granola;8054;% Kill Rate;217;207;deliverando
+Granola;8055;# Commissionable Orders;1.0;7.0;deliverando
+Granola;8055;# Negative Comments;0.0;0.0;deliverando
+Granola;8055;# Positive Comments;0.0;0.0;deliverando
+Neu Nagoja;8054;# Commissionable Orders;0.0;0.0;deliverando
+Neu Nagoja;8054;# Negative Comments;0.0;0.0;deliverando
+Neu Nagoja;8054;# Positive Comments;0.0;0.0;deliverando
+Rosamunde;8041;# Commissionable Orders;99.0;67.0;deliverando
+Rosamunde;8041;Avg Basket Size €;20.69;19.6;deliverando
+Rosamunde;8041;# Negative Comments;0.0;0.0;deliverando
+Rosamunde;8041;# Positive Comments;1.0;1.0;deliverando
+Rosamunde;8041;% Kill Rate;99;86;deliverando
+Rosamunde;8041;Avg Time to Accept (s);30.0;21.0;deliverando
+Naheds Küche;8020;# Commissionable Orders;5.0;11.0;deliverando
+Naheds Küche;8020;Avg Basket Size €;15.64;14.03;deliverando
+Naheds Küche;8020;# Negative Comments;0.0;0.0;deliverando
+Naheds Küche;8020;# Positive Comments;1.0;0.0;deliverando
+Naheds Küche;8020;% Kill Rate;0.05;48;deliverando
+Naheds Küche;8020;Avg Time to Accept (s);735.0;145.0;deliverando
+Chin Chin Asia Specials;8010;# Commissionable Orders;853.0;727.0;deliverando
+Chin Chin Asia Specials;8010;Avg Basket Size €;26.06;25.9;deliverando
+Chin Chin Asia Specials;8010;# Negative Comments;0.0;0.0;deliverando
+Chin Chin Asia Specials;8010;# Positive Comments;1.0;1.0;deliverando
+Chin Chin Asia Specials;8010;% Kill Rate;93;0.09;deliverando
+Chin Chin Asia Specials;8010;Avg Time to Accept (s);17.0;14.0;deliverando
+Brau32;8010;# Commissionable Orders;32.0;11.0;deliverando
+Brau32;8010;Avg Basket Size €;25.02;24.87;deliverando
+Brau32;8010;# Negative Comments;0.0;0.0;deliverando
+Brau32;8010;# Positive Comments;1.0;1.0;deliverando
+Brau32;8010;% Kill Rate;83;58;deliverando
+Brau32;8010;Avg Time to Accept (s);316.0;447.0;deliverando
+YA HABIBI - marokkanische Küche;8010;# Commissionable Orders;0.0;0.0;deliverando
+YA HABIBI - marokkanische Küche;8010;# Negative Comments;0.0;0.0;deliverando
+YA HABIBI - marokkanische Küche;8010;# Positive Comments;0.0;0.0;deliverando
+Ralf's Come In;8010;# Commissionable Orders;0.0;0.0;deliverando
+Ralf's Come In;8010;# Negative Comments;0.0;0.0;deliverando
+Ralf's Come In;8010;# Positive Comments;0.0;0.0;deliverando
+Crazy Dogs;8055;# Commissionable Orders;0.0;9.0;deliverando
+Crazy Dogs;8055;# Negative Comments;0.0;0.0;deliverando
+Crazy Dogs;8055;# Positive Comments;0.0;0.0;deliverando
+Crazy Dogs;8055;% Kill Rate;76;93;deliverando
+Cooking Wu;8052;# Commissionable Orders;5.0;27.0;deliverando
+Cooking Wu;8052;Avg Basket Size €;17.72;27.82;deliverando
+Cooking Wu;8052;# Negative Comments;0.0;0.0;deliverando
+Cooking Wu;8052;# Positive Comments;0.0;1.0;deliverando
+Cooking Wu;8052;% Kill Rate;91;84;deliverando
+Cooking Wu;8052;Avg Time to Accept (s);1333.0;361.0;deliverando
+Dionysos;8010;# Commissionable Orders;0.0;0.0;deliverando
+Dionysos;8010;# Negative Comments;0.0;0.0;deliverando
+Dionysos;8010;# Positive Comments;0.0;0.0;deliverando
+Dionysos;8010;% Kill Rate;56;74;deliverando
+Cipollino - Das Original;8010;# Commissionable Orders;0.0;0.0;deliverando
+Cipollino - Das Original;8010;# Negative Comments;0.0;0.0;deliverando
+Cipollino - Das Original;8010;# Positive Comments;0.0;0.0;deliverando
+Area 5;8010;# Commissionable Orders;0.0;0.0;deliverando
+Area 5;8010;# Negative Comments;0.0;0.0;deliverando
+Area 5;8010;# Positive Comments;0.0;0.0;deliverando
+Area 5;8010;% Kill Rate;48;55;deliverando
+Subway;8020;# Commissionable Orders;24.0;0.0;deliverando
+Subway;8020;# Negative Comments;0.0;0.0;deliverando
+Subway;8020;# Positive Comments;1.0;0.0;deliverando
+Subway;8020;% Kill Rate;53;48;deliverando
+Subway;8055;# Commissionable Orders;5.0;73.0;deliverando
+Subway;8055;Avg Basket Size €;14.38;19.67;deliverando
+Subway;8055;# Negative Comments;0.0;0.0;deliverando
+Subway;8055;# Positive Comments;0.0;1.0;deliverando
+Subway;8055;% Kill Rate;76;89;deliverando
+Subway;8055;Avg Time to Accept (s);16.0;265.0;deliverando
+Eye Aseda Ghana and Asian Kitchen;8020;# Commissionable Orders;2.0;4.0;deliverando
+Eye Aseda Ghana and Asian Kitchen;8020;Avg Basket Size €;31.5;17.5;deliverando
+Eye Aseda Ghana and Asian Kitchen;8020;# Negative Comments;0.0;0.0;deliverando
+Eye Aseda Ghana and Asian Kitchen;8020;# Positive Comments;0.0;0.0;deliverando
+Eye Aseda Ghana and Asian Kitchen;8020;Avg Time to Accept (s);36.0;37.0;deliverando
+Ugarit -Mediterranes Restaurant;8020;# Commissionable Orders;0.0;0.0;deliverando
+Ugarit -Mediterranes Restaurant;8020;# Negative Comments;0.0;0.0;deliverando
+Ugarit -Mediterranes Restaurant;8020;# Positive Comments;0.0;0.0;deliverando
+Tasty Donuts & Coffee;8055;# Commissionable Orders;0.0;0.0;deliverando
+Tasty Donuts & Coffee;8055;# Negative Comments;0.0;0.0;deliverando
+Tasty Donuts & Coffee;8055;# Positive Comments;0.0;0.0;deliverando
+Mr.Falafel;8010;# Commissionable Orders;48.0;39.0;deliverando
+Mr.Falafel;8010;Avg Basket Size €;13.53;14.96;deliverando
+Mr.Falafel;8010;# Negative Comments;0.0;1.0;deliverando
+Mr.Falafel;8010;# Positive Comments;1.0;1.0;deliverando
+Mr.Falafel;8010;% Kill Rate;138;125;deliverando
+Mr.Falafel;8010;Avg Time to Accept (s);246.0;18.0;deliverando
+Campus Beisl;8010;# Commissionable Orders;24.0;12.0;deliverando
+Campus Beisl;8010;Avg Basket Size €;15.38;14.19;deliverando
+Campus Beisl;8010;# Negative Comments;0.0;0.0;deliverando
+Campus Beisl;8010;# Positive Comments;0.0;0.0;deliverando
+Campus Beisl;8010;% Kill Rate;69;39;deliverando
+Campus Beisl;8010;Avg Time to Accept (s);274.0;571.0;deliverando
+Ferdls Restaurant;8054;# Commissionable Orders;17.0;19.0;deliverando
+Ferdls Restaurant;8054;Avg Basket Size €;24.36;30.31;deliverando
+Ferdls Restaurant;8054;# Negative Comments;0.0;0.0;deliverando
+Ferdls Restaurant;8054;# Positive Comments;1.0;1.0;deliverando
+Ferdls Restaurant;8054;% Kill Rate;77;0.07;deliverando
+Ferdls Restaurant;8054;Avg Time to Accept (s);486.0;409.0;deliverando
+Best Food Grill 4;8020;# Commissionable Orders;9.0;25.0;deliverando
+Best Food Grill 4;8020;Avg Basket Size €;21.92;14.76;deliverando
+Best Food Grill 4;8020;# Negative Comments;0.0;0.0;deliverando
+Best Food Grill 4;8020;# Positive Comments;1.0;1.0;deliverando
+Best Food Grill 4;8020;% Kill Rate;44;23;deliverando
+Best Food Grill 4;8020;Avg Time to Accept (s);515.0;440.0;deliverando
+PHO YOU;8010;# Commissionable Orders;5.0;2.0;deliverando
+PHO YOU;8010;# Negative Comments;0.0;0.0;deliverando
+PHO YOU;8010;# Positive Comments;0.0;0.0;deliverando
+PHO YOU;8010;% Kill Rate;227;231;deliverando
+Pizza Galerie;8010;# Commissionable Orders;355.0;185.0;deliverando
+Pizza Galerie;8010;Avg Basket Size €;19.63;20.35;deliverando
+Pizza Galerie;8010;# Negative Comments;2.0;1.0;deliverando
+Pizza Galerie;8010;# Positive Comments;1.0;1.0;deliverando
+Pizza Galerie;8010;% Kill Rate;89;72;deliverando
+Pizza Galerie;8010;Avg Time to Accept (s);16.0;16.0;deliverando
+Pyramidana;8054;# Commissionable Orders;55.0;58.0;deliverando
+Pyramidana;8054;Avg Basket Size €;19.46;22.11;deliverando
+Pyramidana;8054;# Negative Comments;1.0;0.0;deliverando
+Pyramidana;8054;# Positive Comments;0.0;1.0;deliverando
+Pyramidana;8054;% Kill Rate;158;132;deliverando
+Pyramidana;8054;Avg Time to Accept (s);34.0;25.0;deliverando
+Torino Pizza Kebap Burger;8010;# Commissionable Orders;66.0;35.0;deliverando
+Torino Pizza Kebap Burger;8010;Avg Basket Size €;10.82;10.51;deliverando
+Torino Pizza Kebap Burger;8010;# Negative Comments;0.0;0.0;deliverando
+Torino Pizza Kebap Burger;8010;# Positive Comments;0.0;1.0;deliverando
+Torino Pizza Kebap Burger;8010;% Kill Rate;0.06;53;deliverando
+Torino Pizza Kebap Burger;8010;Avg Time to Accept (s);484.0;550.0;deliverando
+Don Camillo;8041;# Commissionable Orders;51.0;41.0;deliverando
+Don Camillo;8041;Avg Basket Size €;24.56;23.34;deliverando
+Don Camillo;8041;# Negative Comments;1.0;0.0;deliverando
+Don Camillo;8041;# Positive Comments;1.0;1.0;deliverando
+Don Camillo;8041;% Kill Rate;148;0.15;deliverando
+Don Camillo;8041;Avg Time to Accept (s);885.0;1051.0;deliverando
+Mur- Pizzeria & Kebap;8010;# Commissionable Orders;75.0;62.0;deliverando
+Mur- Pizzeria & Kebap;8010;Avg Basket Size €;11.43;10.62;deliverando
+Mur- Pizzeria & Kebap;8010;# Negative Comments;0.0;1.0;deliverando
+Mur- Pizzeria & Kebap;8010;# Positive Comments;1.0;1.0;deliverando
+Mur- Pizzeria & Kebap;8010;% Kill Rate;42;64;deliverando
+Mur- Pizzeria & Kebap;8010;Avg Time to Accept (s);426.0;563.0;deliverando
+Uhrturmbäckerei;8010;# Commissionable Orders;0.0;0.0;deliverando
+Uhrturmbäckerei;8010;# Negative Comments;0.0;0.0;deliverando
+Uhrturmbäckerei;8010;# Positive Comments;0.0;0.0;deliverando
+Geidorf Standl;8010;# Commissionable Orders;13.0;2.0;deliverando
+Geidorf Standl;8010;Avg Basket Size €;13.42;8.75;deliverando
+Geidorf Standl;8010;# Negative Comments;0.0;0.0;deliverando
+Geidorf Standl;8010;# Positive Comments;1.0;0.0;deliverando
+Geidorf Standl;8010;% Kill Rate;29;25;deliverando
+Geidorf Standl;8010;Avg Time to Accept (s);492.0;398.0;deliverando
+Best Food Grill 6;8010;# Commissionable Orders;5.0;0.0;deliverando
+Best Food Grill 6;8010;# Negative Comments;0.0;0.0;deliverando
+Best Food Grill 6;8010;# Positive Comments;0.0;0.0;deliverando
+Best Food Grill 6;8010;% Kill Rate;25;26;deliverando
+Masala;8010;# Commissionable Orders;192.0;109.0;deliverando
+Masala;8010;Avg Basket Size €;31.83;31.1;deliverando
+Masala;8010;# Negative Comments;0.0;0.0;deliverando
+Masala;8010;# Positive Comments;1.0;1.0;deliverando
+Masala;8010;% Kill Rate;93;91;deliverando
+Masala;8010;Avg Time to Accept (s);201.0;207.0;deliverando
+Humuhumu Poke Bar;8010;# Commissionable Orders;160.0;112.0;deliverando
+Humuhumu Poke Bar;8010;Avg Basket Size €;23.22;24.05;deliverando
+Humuhumu Poke Bar;8010;# Negative Comments;1.0;0.0;deliverando
+Humuhumu Poke Bar;8010;# Positive Comments;1.0;1.0;deliverando
+Humuhumu Poke Bar;8010;% Kill Rate;103;101;deliverando
+Humuhumu Poke Bar;8010;Avg Time to Accept (s);562.0;648.0;deliverando
+Zushi Market;8055;# Commissionable Orders;0.0;0.0;deliverando
+Zushi Market;8055;# Negative Comments;0.0;0.0;deliverando
+Zushi Market;8055;# Positive Comments;0.0;0.0;deliverando
+Chin Chin Asian Special;8020;# Commissionable Orders;720.0;1026.0;deliverando
+Chin Chin Asian Special;8020;Avg Basket Size €;26.84;27.36;deliverando
+Chin Chin Asian Special;8020;# Negative Comments;1.0;1.0;deliverando
+Chin Chin Asian Special;8020;# Positive Comments;1.0;1.0;deliverando
+Chin Chin Asian Special;8020;% Kill Rate;102;91;deliverando
+Chin Chin Asian Special;8020;Avg Time to Accept (s);16.0;12.0;deliverando
+Mamacita - California Burritos;8010;# Commissionable Orders;1010.0;1067.0;deliverando
+Mamacita - California Burritos;8010;Avg Basket Size €;21.69;23.01;deliverando
+Mamacita - California Burritos;8010;# Negative Comments;10.0;10.0;deliverando
+Mamacita - California Burritos;8010;# Positive Comments;1.0;1.0;deliverando
+Mamacita - California Burritos;8010;% Kill Rate;0.11;103;deliverando
+Mamacita - California Burritos;8010;Avg Time to Accept (s);17.0;18.0;deliverando
+Captain's Riff;8010;# Commissionable Orders;50.0;35.0;deliverando
+Captain's Riff;8010;Avg Basket Size €;15.8;15.71;deliverando
+Captain's Riff;8010;# Negative Comments;0.0;0.0;deliverando
+Captain's Riff;8010;# Positive Comments;1.0;1.0;deliverando
+Captain's Riff;8010;% Kill Rate;56;56;deliverando
+Captain's Riff;8010;Avg Time to Accept (s);297.0;314.0;deliverando
+Gaisbergstubn;8020;# Commissionable Orders;98.0;74.0;deliverando
+Gaisbergstubn;8020;Avg Basket Size €;24.21;26.79;deliverando
+Gaisbergstubn;8020;# Negative Comments;0.0;0.0;deliverando
+Gaisbergstubn;8020;# Positive Comments;1.0;1.0;deliverando
+Gaisbergstubn;8020;% Kill Rate;108;101;deliverando
+Gaisbergstubn;8020;Avg Time to Accept (s);427.0;460.0;deliverando
+Horosh;8010;# Commissionable Orders;13.0;12.0;deliverando
+Horosh;8010;Avg Basket Size €;12.35;11.72;deliverando
+Horosh;8010;# Negative Comments;0.0;0.0;deliverando
+Horosh;8010;# Positive Comments;1.0;1.0;deliverando
+Horosh;8010;% Kill Rate;98;78;deliverando
+Horosh;8010;Avg Time to Accept (s);452.0;283.0;deliverando
+Pizzeria Nero & Kebap;8020;# Commissionable Orders;38.0;21.0;deliverando
+Pizzeria Nero & Kebap;8020;Avg Basket Size €;11.98;9.59;deliverando
+Pizzeria Nero & Kebap;8020;# Negative Comments;1.0;0.0;deliverando
+Pizzeria Nero & Kebap;8020;# Positive Comments;0.0;0.0;deliverando
+Pizzeria Nero & Kebap;8020;% Kill Rate;48;52;deliverando
+Pizzeria Nero & Kebap;8020;Avg Time to Accept (s);325.0;333.0;deliverando
+Brasilva;8020;# Commissionable Orders;2.0;0.0;deliverando
+Brasilva;8020;# Negative Comments;0.0;0.0;deliverando
+Brasilva;8020;# Positive Comments;0.0;0.0;deliverando
+Brasilva;8020;% Kill Rate;115;0.05;deliverando
+Don Daniele;8020;# Commissionable Orders;210.0;343.0;deliverando
+Don Daniele;8020;Avg Basket Size €;21.14;21.72;deliverando
+Don Daniele;8020;# Negative Comments;0.0;1.0;deliverando
+Don Daniele;8020;# Positive Comments;1.0;1.0;deliverando
+Don Daniele;8020;% Kill Rate;83;91;deliverando
+Don Daniele;8020;Avg Time to Accept (s);13.0;11.0;deliverando
+Sultan;8020;# Commissionable Orders;85.0;76.0;deliverando
+Sultan;8020;Avg Basket Size €;14.85;14.6;deliverando
+Sultan;8020;# Negative Comments;1.0;1.0;deliverando
+Sultan;8020;# Positive Comments;1.0;1.0;deliverando
+Sultan;8020;% Kill Rate;76;0.1;deliverando
+Sultan;8020;Avg Time to Accept (s);27.0;29.0;deliverando
+MC Döner;8020;# Commissionable Orders;106.0;68.0;deliverando
+MC Döner;8020;Avg Basket Size €;11.75;11.79;deliverando
+MC Döner;8020;# Negative Comments;0.0;0.0;deliverando
+MC Döner;8020;# Positive Comments;1.0;1.0;deliverando
+MC Döner;8020;% Kill Rate;32;37;deliverando
+MC Döner;8020;Avg Time to Accept (s);299.0;218.0;deliverando
+Pierogi;8010;# Commissionable Orders;14.0;9.0;deliverando
+Pierogi;8010;Avg Basket Size €;20.61;25.06;deliverando
+Pierogi;8010;# Negative Comments;0.0;0.0;deliverando
+Pierogi;8010;# Positive Comments;1.0;0.0;deliverando
+Pierogi;8010;% Kill Rate;136;59;deliverando
+Pierogi;8010;Avg Time to Accept (s);491.0;425.0;deliverando
+Ganesha;8010;# Commissionable Orders;37.0;57.0;deliverando
+Ganesha;8010;Avg Basket Size €;28.08;26.5;deliverando
+Ganesha;8010;# Negative Comments;0.0;1.0;deliverando
+Ganesha;8010;# Positive Comments;0.0;0.0;deliverando
+Ganesha;8010;% Kill Rate;114;132;deliverando
+Ganesha;8010;Avg Time to Accept (s);327.0;545.0;deliverando
+Tick-Tack;8010;# Commissionable Orders;194.0;122.0;deliverando
+Tick-Tack;8010;Avg Basket Size €;18.29;19.9;deliverando
+Tick-Tack;8010;# Negative Comments;1.0;0.0;deliverando
+Tick-Tack;8010;# Positive Comments;1.0;1.0;deliverando
+Tick-Tack;8010;% Kill Rate;19;23;deliverando
+Tick-Tack;8010;Avg Time to Accept (s);372.0;347.0;deliverando
+Babo Chicken;8010;# Commissionable Orders;181.0;114.0;deliverando
+Babo Chicken;8010;Avg Basket Size €;23.99;24.77;deliverando
+Babo Chicken;8010;# Negative Comments;4.0;1.0;deliverando
+Babo Chicken;8010;# Positive Comments;1.0;1.0;deliverando
+Babo Chicken;8010;% Kill Rate;59;59;deliverando
+Babo Chicken;8010;Avg Time to Accept (s);472.0;514.0;deliverando
+Propeller;8010;# Commissionable Orders;128.0;115.0;deliverando
+Propeller;8010;Avg Basket Size €;18.32;17.05;deliverando
+Propeller;8010;# Negative Comments;0.0;1.0;deliverando
+Propeller;8010;# Positive Comments;1.0;1.0;deliverando
+Propeller;8010;% Kill Rate;39;47;deliverando
+Propeller;8010;Avg Time to Accept (s);375.0;514.0;deliverando
+Brandhof;8010;# Commissionable Orders;10.0;83.0;deliverando
+Brandhof;8010;Avg Basket Size €;22.15;20.2;deliverando
+Brandhof;8010;# Negative Comments;0.0;0.0;deliverando
+Brandhof;8010;# Positive Comments;1.0;1.0;deliverando
+Brandhof;8010;Avg Time to Accept (s);533.0;477.0;deliverando
+Santa Lucia;8020;# Commissionable Orders;0.0;0.0;deliverando
+Santa Lucia;8020;# Negative Comments;0.0;0.0;deliverando
+Santa Lucia;8020;# Positive Comments;0.0;0.0;deliverando
+Santa Lucia;8020;% Kill Rate;94;74;deliverando
+Zu den 3 goldenen Kugeln;8010;# Commissionable Orders;0.0;23.0;deliverando
+Zu den 3 goldenen Kugeln;8010;# Negative Comments;0.0;0.0;deliverando
+Zu den 3 goldenen Kugeln;8010;# Positive Comments;0.0;1.0;deliverando
+Die goldene Banane;8010;# Commissionable Orders;0.0;0.0;deliverando
+Die goldene Banane;8010;# Negative Comments;0.0;0.0;deliverando
+Die goldene Banane;8010;# Positive Comments;0.0;0.0;deliverando
+Die goldene Banane;8010;% Kill Rate;108;99;deliverando
+Sägewerk Klassik;8010;# Commissionable Orders;120.0;160.0;deliverando
+Sägewerk Klassik;8010;Avg Basket Size €;14.05;16.39;deliverando
+Sägewerk Klassik;8010;# Negative Comments;1.0;1.0;deliverando
+Sägewerk Klassik;8010;# Positive Comments;1.0;1.0;deliverando
+Sägewerk Klassik;8010;% Kill Rate;68;69;deliverando
+Sägewerk Klassik;8010;Avg Time to Accept (s);438.0;485.0;deliverando
+Cafe Erde;8010;# Commissionable Orders;240.0;180.0;deliverando
+Cafe Erde;8010;Avg Basket Size €;18.57;18.04;deliverando
+Cafe Erde;8010;# Negative Comments;0.0;0.0;deliverando
+Cafe Erde;8010;# Positive Comments;1.0;1.0;deliverando
+Cafe Erde;8010;% Kill Rate;49;0.06;deliverando
+Cafe Erde;8010;Avg Time to Accept (s);360.0;301.0;deliverando
+Akdag Kebap;8020;# Commissionable Orders;144.0;98.0;deliverando
+Akdag Kebap;8020;Avg Basket Size €;10.06;10.62;deliverando
+Akdag Kebap;8020;# Negative Comments;1.0;2.0;deliverando
+Akdag Kebap;8020;# Positive Comments;1.0;1.0;deliverando
+Akdag Kebap;8020;% Kill Rate;33;21;deliverando
+Akdag Kebap;8020;Avg Time to Accept (s);465.0;361.0;deliverando
+Rosamunde;8010;# Commissionable Orders;72.0;82.0;deliverando
+Rosamunde;8010;Avg Basket Size €;15.26;15.75;deliverando
+Rosamunde;8010;# Negative Comments;0.0;3.0;deliverando
+Rosamunde;8010;# Positive Comments;1.0;1.0;deliverando
+Rosamunde;8010;% Kill Rate;52;67;deliverando
+Rosamunde;8010;Avg Time to Accept (s);196.0;17.0;deliverando
+Burger Land;8010;# Commissionable Orders;324.0;370.0;deliverando
+Burger Land;8010;Avg Basket Size €;21.75;22.7;deliverando
+Burger Land;8010;# Negative Comments;1.0;1.0;deliverando
+Burger Land;8010;# Positive Comments;1.0;1.0;deliverando
+Burger Land;8010;% Kill Rate;77;74;deliverando
+Burger Land;8010;Avg Time to Accept (s);18.0;17.0;deliverando
+Rosamunde;8010;# Commissionable Orders;230.0;313.0;deliverando
+Rosamunde;8010;Avg Basket Size €;16.79;16.69;deliverando
+Rosamunde;8010;# Negative Comments;1.0;2.0;deliverando
+Rosamunde;8010;# Positive Comments;1.0;1.0;deliverando
+Rosamunde;8010;% Kill Rate;89;101;deliverando
+Rosamunde;8010;Avg Time to Accept (s);33.0;29.0;deliverando
+LIKE PIZZA KEBAP BURGER;8055;# Commissionable Orders;43.0;29.0;deliverando
+LIKE PIZZA KEBAP BURGER;8055;Avg Basket Size €;16.7;14.05;deliverando
+LIKE PIZZA KEBAP BURGER;8055;# Negative Comments;0.0;1.0;deliverando
+LIKE PIZZA KEBAP BURGER;8055;# Positive Comments;0.0;1.0;deliverando
+LIKE PIZZA KEBAP BURGER;8055;% Kill Rate;48;74;deliverando
+LIKE PIZZA KEBAP BURGER;8055;Avg Time to Accept (s);18.0;17.0;deliverando
+Ali mit Alles;8010;# Commissionable Orders;285.0;184.0;deliverando
+Ali mit Alles;8010;Avg Basket Size €;11.38;12.24;deliverando
+Ali mit Alles;8010;# Negative Comments;0.0;1.0;deliverando
+Ali mit Alles;8010;# Positive Comments;1.0;1.0;deliverando
+Ali mit Alles;8010;% Kill Rate;51;48;deliverando
+Ali mit Alles;8010;Avg Time to Accept (s);382.0;389.0;deliverando
+Arena Grill & Fast Food;8020;# Commissionable Orders;82.0;66.0;deliverando
+Arena Grill & Fast Food;8020;Avg Basket Size €;14.66;19.06;deliverando
+Arena Grill & Fast Food;8020;# Negative Comments;0.0;1.0;deliverando
+Arena Grill & Fast Food;8020;# Positive Comments;1.0;1.0;deliverando
+Arena Grill & Fast Food;8020;% Kill Rate;46;53;deliverando
+Arena Grill & Fast Food;8020;Avg Time to Accept (s);412.0;373.0;deliverando
+Nangfha Cafe Thai Style;8010;# Commissionable Orders;28.0;18.0;deliverando
+Nangfha Cafe Thai Style;8010;Avg Basket Size €;19.72;17.32;deliverando
+Nangfha Cafe Thai Style;8010;# Negative Comments;2.0;0.0;deliverando
+Nangfha Cafe Thai Style;8010;# Positive Comments;0.0;1.0;deliverando
+Nangfha Cafe Thai Style;8010;% Kill Rate;83;68;deliverando
+Nangfha Cafe Thai Style;8010;Avg Time to Accept (s);387.0;402.0;deliverando
+Zur Steirerstub'n;8020;# Commissionable Orders;43.0;42.0;deliverando
+Zur Steirerstub'n;8020;Avg Basket Size €;24.95;24.26;deliverando
+Zur Steirerstub'n;8020;# Negative Comments;0.0;0.0;deliverando
+Zur Steirerstub'n;8020;# Positive Comments;1.0;1.0;deliverando
+Zur Steirerstub'n;8020;% Kill Rate;118;135;deliverando
+Zur Steirerstub'n;8020;Avg Time to Accept (s);283.0;243.0;deliverando
+HEINZ Graz Nord;8041;# Commissionable Orders;104.0;171.0;deliverando
+HEINZ Graz Nord;8041;Avg Basket Size €;27.72;25.97;deliverando
+HEINZ Graz Nord;8041;# Negative Comments;0.0;1.0;deliverando
+HEINZ Graz Nord;8041;# Positive Comments;1.0;1.0;deliverando
+HEINZ Graz Nord;8041;% Kill Rate;97;88;deliverando
+HEINZ Graz Nord;8041;Avg Time to Accept (s);334.0;13.0;deliverando
+WILDING - FETT ESSEN;8010;# Commissionable Orders;489.0;494.0;deliverando
+WILDING - FETT ESSEN;8010;Avg Basket Size €;17.03;17.95;deliverando
+WILDING - FETT ESSEN;8010;# Negative Comments;0.0;2.0;deliverando
+WILDING - FETT ESSEN;8010;# Positive Comments;1.0;1.0;deliverando
+WILDING - FETT ESSEN;8010;% Kill Rate;33;44;deliverando
+WILDING - FETT ESSEN;8010;Avg Time to Accept (s);451.0;524.0;deliverando
+Kostes Coffeshop & Restaurant;8010;# Commissionable Orders;35.0;27.0;deliverando
+Kostes Coffeshop & Restaurant;8010;Avg Basket Size €;24.39;22.38;deliverando
+Kostes Coffeshop & Restaurant;8010;# Negative Comments;0.0;0.0;deliverando
+Kostes Coffeshop & Restaurant;8010;# Positive Comments;1.0;0.0;deliverando
+Kostes Coffeshop & Restaurant;8010;% Kill Rate;129;118;deliverando
+Kostes Coffeshop & Restaurant;8010;Avg Time to Accept (s);670.0;491.0;deliverando
+Cofeba;8010;# Commissionable Orders;0.0;0.0;deliverando
+Cofeba;8010;# Negative Comments;0.0;0.0;deliverando
+Cofeba;8010;# Positive Comments;0.0;0.0;deliverando
+Gösser Bräu Graz;8010;# Commissionable Orders;10.0;11.0;deliverando
+Gösser Bräu Graz;8010;Avg Basket Size €;26.42;24.37;deliverando
+Gösser Bräu Graz;8010;# Negative Comments;0.0;0.0;deliverando
+Gösser Bräu Graz;8010;# Positive Comments;0.0;1.0;deliverando
+Gösser Bräu Graz;8010;% Kill Rate;41;32;deliverando
+Gösser Bräu Graz;8010;Avg Time to Accept (s);322.0;267.0;deliverando
+Al Pomodoro- Ristorante Pizzeria;8010;# Commissionable Orders;55.0;62.0;deliverando
+Al Pomodoro- Ristorante Pizzeria;8010;Avg Basket Size €;21.15;22.46;deliverando
+Al Pomodoro- Ristorante Pizzeria;8010;# Negative Comments;0.0;0.0;deliverando
+Al Pomodoro- Ristorante Pizzeria;8010;# Positive Comments;1.0;1.0;deliverando
+Al Pomodoro- Ristorante Pizzeria;8010;% Kill Rate;135;105;deliverando
+Al Pomodoro- Ristorante Pizzeria;8010;Avg Time to Accept (s);249.0;311.0;deliverando
+Jodl - Süßigkeiten & Getränke;8010;# Commissionable Orders;12.0;7.0;deliverando
+Jodl - Süßigkeiten & Getränke;8010;Avg Basket Size €;16.37;25.5;deliverando
+Jodl - Süßigkeiten & Getränke;8010;# Negative Comments;0.0;0.0;deliverando
+Jodl - Süßigkeiten & Getränke;8010;# Positive Comments;0.0;0.0;deliverando
+Jodl - Süßigkeiten & Getränke;8010;Avg Time to Accept (s);634.0;365.0;deliverando
+Sägewerk Sport;8010;# Commissionable Orders;80.0;106.0;deliverando
+Sägewerk Sport;8010;Avg Basket Size €;17.55;16.62;deliverando
+Sägewerk Sport;8010;# Negative Comments;0.0;1.0;deliverando
+Sägewerk Sport;8010;# Positive Comments;0.0;1.0;deliverando
+Sägewerk Sport;8010;% Kill Rate;64;67;deliverando
+Sägewerk Sport;8010;Avg Time to Accept (s);365.0;389.0;deliverando
+Posaune;8010;# Commissionable Orders;0.0;0.0;deliverando
+Posaune;8010;# Negative Comments;0.0;0.0;deliverando
+Posaune;8010;# Positive Comments;0.0;0.0;deliverando
+Posaune;8010;% Kill Rate;125;91;deliverando
+Wilding im Hof - FETT ESSEN;8010;# Commissionable Orders;345.0;358.0;deliverando
+Wilding im Hof - FETT ESSEN;8010;Avg Basket Size €;17.68;17.24;deliverando
+Wilding im Hof - FETT ESSEN;8010;# Negative Comments;0.0;0.0;deliverando
+Wilding im Hof - FETT ESSEN;8010;# Positive Comments;1.0;1.0;deliverando
+Wilding im Hof - FETT ESSEN;8010;% Kill Rate;49;55;deliverando
+Wilding im Hof - FETT ESSEN;8010;Avg Time to Accept (s);421.0;466.0;deliverando
+Casa Costiera - Cucina di mare & Pizzeria;8010;# Commissionable Orders;111.0;142.0;deliverando
+Casa Costiera - Cucina di mare & Pizzeria;8010;Avg Basket Size €;23.07;22.96;deliverando
+Casa Costiera - Cucina di mare & Pizzeria;8010;# Negative Comments;0.0;1.0;deliverando
+Casa Costiera - Cucina di mare & Pizzeria;8010;# Positive Comments;1.0;1.0;deliverando
+Casa Costiera - Cucina di mare & Pizzeria;8010;% Kill Rate;106;149;deliverando
+Casa Costiera - Cucina di mare & Pizzeria;8010;Avg Time to Accept (s);464.0;538.0;deliverando
+Restaurant Demiri;8020;# Commissionable Orders;46.0;32.0;deliverando
+Restaurant Demiri;8020;Avg Basket Size €;14.9;14.76;deliverando
+Restaurant Demiri;8020;# Negative Comments;0.0;1.0;deliverando
+Restaurant Demiri;8020;# Positive Comments;1.0;1.0;deliverando
+Restaurant Demiri;8020;% Kill Rate;58;56;deliverando
+Restaurant Demiri;8020;Avg Time to Accept (s);479.0;380.0;deliverando
+Restaurant La Done;8020;# Commissionable Orders;122.0;67.0;deliverando
+Restaurant La Done;8020;Avg Basket Size €;23.18;22.08;deliverando
+Restaurant La Done;8020;# Negative Comments;1.0;1.0;deliverando
+Restaurant La Done;8020;# Positive Comments;1.0;1.0;deliverando
+Restaurant La Done;8020;Avg Time to Accept (s);21.0;31.0;deliverando
+PARKS-Art;8020;# Commissionable Orders;39.0;0.0;deliverando
+PARKS-Art;8020;# Negative Comments;0.0;0.0;deliverando
+PARKS-Art;8020;# Positive Comments;1.0;0.0;deliverando
+PARKS-Art;8020;% Kill Rate;32;24;deliverando
+Esserei - Pasteria;8055;# Commissionable Orders;0.0;0.0;deliverando
+Esserei - Pasteria;8055;# Negative Comments;0.0;0.0;deliverando
+Esserei - Pasteria;8055;# Positive Comments;0.0;0.0;deliverando
+Parks Bio Fairtrade Coffee Shop;8010;# Commissionable Orders;108.0;86.0;deliverando
+Parks Bio Fairtrade Coffee Shop;8010;Avg Basket Size €;17.31;17.77;deliverando
+Parks Bio Fairtrade Coffee Shop;8010;# Negative Comments;1.0;1.0;deliverando
+Parks Bio Fairtrade Coffee Shop;8010;# Positive Comments;1.0;1.0;deliverando
+Parks Bio Fairtrade Coffee Shop;8010;% Kill Rate;23;32;deliverando
+Parks Bio Fairtrade Coffee Shop;8010;Avg Time to Accept (s);470.0;467.0;deliverando
+Pi Pa Po;8055;# Commissionable Orders;70.0;80.0;deliverando
+Pi Pa Po;8055;Avg Basket Size €;23.59;24.52;deliverando
+Pi Pa Po;8055;# Negative Comments;0.0;0.0;deliverando
+Pi Pa Po;8055;# Positive Comments;1.0;1.0;deliverando
+Pi Pa Po;8055;% Kill Rate;166;179;deliverando
+Pi Pa Po;8055;Avg Time to Accept (s);569.0;366.0;deliverando
+Onkel Donald Döner und Pizza;8020;# Commissionable Orders;53.0;42.0;deliverando
+Onkel Donald Döner und Pizza;8020;Avg Basket Size €;18.38;19.41;deliverando
+Onkel Donald Döner und Pizza;8020;# Negative Comments;0.0;0.0;deliverando
+Onkel Donald Döner und Pizza;8020;# Positive Comments;1.0;1.0;deliverando
+Onkel Donald Döner und Pizza;8020;% Kill Rate;94;74;deliverando
+Onkel Donald Döner und Pizza;8020;Avg Time to Accept (s);16.0;12.0;deliverando
+Bar28;8010;# Commissionable Orders;82.0;43.0;deliverando
+Bar28;8010;Avg Basket Size €;18.92;19.21;deliverando
+Bar28;8010;# Negative Comments;1.0;1.0;deliverando
+Bar28;8010;# Positive Comments;1.0;1.0;deliverando
+Bar28;8010;% Kill Rate;113;91;deliverando
+Bar28;8010;Avg Time to Accept (s);505.0;463.0;deliverando
+China Restaurant - Spezielle Gerichte;8055;# Commissionable Orders;24.0;24.0;deliverando
+China Restaurant - Spezielle Gerichte;8055;Avg Basket Size €;18.91;18.52;deliverando
+China Restaurant - Spezielle Gerichte;8055;# Negative Comments;0.0;3.0;deliverando
+China Restaurant - Spezielle Gerichte;8055;# Positive Comments;0.0;1.0;deliverando
+China Restaurant - Spezielle Gerichte;8055;% Kill Rate;106;65;deliverando
+China Restaurant - Spezielle Gerichte;8055;Avg Time to Accept (s);790.0;111.0;deliverando
+The Churchill Bar;8010;# Commissionable Orders;0.0;0.0;deliverando
+The Churchill Bar;8010;# Negative Comments;0.0;0.0;deliverando
+The Churchill Bar;8010;# Positive Comments;0.0;0.0;deliverando
+Der Eissalon;8052;# Commissionable Orders;1.0;0.0;deliverando
+Der Eissalon;8052;# Negative Comments;0.0;0.0;deliverando
+Der Eissalon;8052;# Positive Comments;0.0;0.0;deliverando
+Der Eissalon;8052;% Kill Rate;123;79;deliverando
+Prik Thai- Thai Street Food &Cooking Classes;8010;# Commissionable Orders;70.0;90.0;deliverando
+Prik Thai- Thai Street Food &Cooking Classes;8010;Avg Basket Size €;28.08;27.23;deliverando
+Prik Thai- Thai Street Food &Cooking Classes;8010;# Negative Comments;0.0;1.0;deliverando
+Prik Thai- Thai Street Food &Cooking Classes;8010;# Positive Comments;1.0;1.0;deliverando
+Prik Thai- Thai Street Food &Cooking Classes;8010;% Kill Rate;0.12;0.11;deliverando
+Prik Thai- Thai Street Food &Cooking Classes;8010;Avg Time to Accept (s);463.0;501.0;deliverando
+Streets;8020;# Commissionable Orders;0.0;0.0;deliverando
+Streets;8020;# Negative Comments;0.0;0.0;deliverando
+Streets;8020;# Positive Comments;0.0;0.0;deliverando
+Food Choice;8010;# Commissionable Orders;2.0;0.0;deliverando
+Food Choice;8010;# Negative Comments;0.0;0.0;deliverando
+Food Choice;8010;# Positive Comments;1.0;0.0;deliverando
+Food Choice;8010;% Kill Rate;0.0;0.0;deliverando
+Panda Asia;8010;# Commissionable Orders;80.0;79.0;deliverando
+Panda Asia;8010;Avg Basket Size €;29.17;25.34;deliverando
+Panda Asia;8010;# Negative Comments;1.0;2.0;deliverando
+Panda Asia;8010;# Positive Comments;1.0;1.0;deliverando
+Panda Asia;8010;% Kill Rate;138;133;deliverando
+Panda Asia;8010;Avg Time to Accept (s);483.0;492.0;deliverando
+Gasthaus Römerstuben;8041;# Commissionable Orders;0.0;0.0;deliverando
+Gasthaus Römerstuben;8041;# Negative Comments;0.0;0.0;deliverando
+Gasthaus Römerstuben;8041;# Positive Comments;0.0;0.0;deliverando
+Gasthaus Römerstuben;8041;% Kill Rate;91;116;deliverando
+OMV - VIVA Shop;8010;# Commissionable Orders;67.0;62.0;deliverando
+OMV - VIVA Shop;8010;Avg Basket Size €;17.21;17.12;deliverando
+OMV - VIVA Shop;8010;# Negative Comments;1.0;0.0;deliverando
+OMV - VIVA Shop;8010;# Positive Comments;1.0;1.0;deliverando
+OMV - VIVA Shop;8010;% Kill Rate;75;78;deliverando
+OMV - VIVA Shop;8010;Avg Time to Accept (s);422.0;578.0;deliverando
+Sushi & Co;8010;# Commissionable Orders;150.0;151.0;deliverando
+Sushi & Co;8010;Avg Basket Size €;26.84;27.51;deliverando
+Sushi & Co;8010;# Negative Comments;1.0;0.0;deliverando
+Sushi & Co;8010;# Positive Comments;1.0;1.0;deliverando
+Sushi & Co;8010;% Kill Rate;111;93;deliverando
+Sushi & Co;8010;Avg Time to Accept (s);381.0;459.0;deliverando
+MoMo's Ristorante;8051;# Commissionable Orders;328.0;405.0;deliverando
+MoMo's Ristorante;8051;Avg Basket Size €;18.84;21.29;deliverando
+MoMo's Ristorante;8051;# Negative Comments;2.0;2.0;deliverando
+MoMo's Ristorante;8051;# Positive Comments;1.0;1.0;deliverando
+MoMo's Ristorante;8051;% Kill Rate;133;111;deliverando
+MoMo's Ristorante;8051;Avg Time to Accept (s);15.0;16.0;deliverando
+Osaka -Japan Restaurant;8020;# Commissionable Orders;94.0;129.0;deliverando
+Osaka -Japan Restaurant;8020;Avg Basket Size €;28.41;29.64;deliverando
+Osaka -Japan Restaurant;8020;# Negative Comments;1.0;1.0;deliverando
+Osaka -Japan Restaurant;8020;# Positive Comments;1.0;1.0;deliverando
+Osaka -Japan Restaurant;8020;% Kill Rate;98;105;deliverando
+Osaka -Japan Restaurant;8020;Avg Time to Accept (s);399.0;475.0;deliverando
+OMV - VIVA Shop;8054;# Commissionable Orders;19.0;33.0;deliverando
+OMV - VIVA Shop;8054;Avg Basket Size €;24.22;19.37;deliverando
+OMV - VIVA Shop;8054;# Negative Comments;0.0;0.0;deliverando
+OMV - VIVA Shop;8054;# Positive Comments;1.0;1.0;deliverando
+OMV - VIVA Shop;8054;Avg Time to Accept (s);280.0;455.0;deliverando
+Tonkin;8010;# Commissionable Orders;30.0;3.0;deliverando
+Tonkin;8010;Avg Basket Size €;36.1;43.1;deliverando
+Tonkin;8010;# Negative Comments;0.0;0.0;deliverando
+Tonkin;8010;# Positive Comments;1.0;0.0;deliverando
+Tonkin;8010;Avg Time to Accept (s);533.0;292.0;deliverando
+Barabar;8041;# Commissionable Orders;0.0;0.0;deliverando
+Barabar;8041;# Negative Comments;0.0;0.0;deliverando
+Barabar;8041;# Positive Comments;0.0;0.0;deliverando
+Barabar;8041;% Kill Rate;81;107;deliverando
+Gasthaus zum weißen Kreuz;8010;# Commissionable Orders;24.0;18.0;deliverando
+Gasthaus zum weißen Kreuz;8010;Avg Basket Size €;23.53;22.14;deliverando
+Gasthaus zum weißen Kreuz;8010;# Negative Comments;0.0;0.0;deliverando
+Gasthaus zum weißen Kreuz;8010;# Positive Comments;1.0;1.0;deliverando
+Gasthaus zum weißen Kreuz;8010;% Kill Rate;93;83;deliverando
+Gasthaus zum weißen Kreuz;8010;Avg Time to Accept (s);696.0;584.0;deliverando
+Ritterwirt Graz;8010;# Commissionable Orders;36.0;62.0;deliverando
+Ritterwirt Graz;8010;Avg Basket Size €;21.42;21.51;deliverando
+Ritterwirt Graz;8010;# Negative Comments;0.0;0.0;deliverando
+Ritterwirt Graz;8010;# Positive Comments;1.0;1.0;deliverando
+Ritterwirt Graz;8010;% Kill Rate;38;28;deliverando
+Ritterwirt Graz;8010;Avg Time to Accept (s);449.0;536.0;deliverando
+Koshari Time;8010;# Commissionable Orders;94.0;71.0;deliverando
+Koshari Time;8010;Avg Basket Size €;14.18;14.12;deliverando
+Koshari Time;8010;# Negative Comments;0.0;0.0;deliverando
+Koshari Time;8010;# Positive Comments;1.0;1.0;deliverando
+Koshari Time;8010;% Kill Rate;137;0.1;deliverando
+Koshari Time;8010;Avg Time to Accept (s);486.0;604.0;deliverando
+Gasthaus Reselstube;8020;# Commissionable Orders;0.0;0.0;deliverando
+Gasthaus Reselstube;8020;# Negative Comments;0.0;0.0;deliverando
+Gasthaus Reselstube;8020;# Positive Comments;0.0;0.0;deliverando
+Gasthaus Reselstube;8020;% Kill Rate;0.0;0.02;deliverando
+Ella Pizza&Kebap;8020;# Commissionable Orders;18.0;9.0;deliverando
+Ella Pizza&Kebap;8020;Avg Basket Size €;16.74;15.67;deliverando
+Ella Pizza&Kebap;8020;# Negative Comments;0.0;0.0;deliverando
+Ella Pizza&Kebap;8020;# Positive Comments;0.0;1.0;deliverando
+Ella Pizza&Kebap;8020;% Kill Rate;145;133;deliverando
+Ella Pizza&Kebap;8020;Avg Time to Accept (s);477.0;559.0;deliverando
+Europa Kebap Pizza;8020;# Commissionable Orders;43.0;36.0;deliverando
+Europa Kebap Pizza;8020;Avg Basket Size €;10.36;9.28;deliverando
+Europa Kebap Pizza;8020;# Negative Comments;1.0;0.0;deliverando
+Europa Kebap Pizza;8020;# Positive Comments;1.0;1.0;deliverando
+Europa Kebap Pizza;8020;% Kill Rate;113;94;deliverando
+Europa Kebap Pizza;8020;Avg Time to Accept (s);449.0;542.0;deliverando
+Arena Grill & Fast Food ;8041;# Commissionable Orders;8.0;11.0;deliverando
+Arena Grill & Fast Food ;8041;Avg Basket Size €;20.25;19.12;deliverando
+Arena Grill & Fast Food ;8041;# Negative Comments;0.0;2.0;deliverando
+Arena Grill & Fast Food ;8041;# Positive Comments;0.0;1.0;deliverando
+Arena Grill & Fast Food ;8041;% Kill Rate;132;99;deliverando
+Arena Grill & Fast Food ;8041;Avg Time to Accept (s);457.0;730.0;deliverando
+Pizzeria Bulut;8055;# Commissionable Orders;69.0;67.0;deliverando
+Pizzeria Bulut;8055;Avg Basket Size €;18.18;20.04;deliverando
+Pizzeria Bulut;8055;# Negative Comments;0.0;0.0;deliverando
+Pizzeria Bulut;8055;# Positive Comments;1.0;1.0;deliverando
+Pizzeria Bulut;8055;% Kill Rate;118;108;deliverando
+Pizzeria Bulut;8055;Avg Time to Accept (s);12.0;13.0;deliverando
+Come a Casa;8054;# Commissionable Orders;41.0;85.0;deliverando
+Come a Casa;8054;Avg Basket Size €;18.73;20.6;deliverando
+Come a Casa;8054;# Negative Comments;0.0;0.0;deliverando
+Come a Casa;8054;# Positive Comments;1.0;1.0;deliverando
+Come a Casa;8054;% Kill Rate;132;131;deliverando
+Come a Casa;8054;Avg Time to Accept (s);23.0;21.0;deliverando
+Gasthof s'Reindl;8055;# Commissionable Orders;17.0;4.0;deliverando
+Gasthof s'Reindl;8055;Avg Basket Size €;32.03;38.48;deliverando
+Gasthof s'Reindl;8055;# Negative Comments;0.0;0.0;deliverando
+Gasthof s'Reindl;8055;# Positive Comments;1.0;1.0;deliverando
+Gasthof s'Reindl;8055;% Kill Rate;105;103;deliverando
+Gasthof s'Reindl;8055;Avg Time to Accept (s);832.0;281.0;deliverando
+Momiji;8010;# Commissionable Orders;80.0;88.0;deliverando
+Momiji;8010;Avg Basket Size €;27.36;29.0;deliverando
+Momiji;8010;# Negative Comments;0.0;0.0;deliverando
+Momiji;8010;# Positive Comments;1.0;1.0;deliverando
+Momiji;8010;% Kill Rate;161;149;deliverando
+Momiji;8010;Avg Time to Accept (s);564.0;495.0;deliverando
+Loana CakeAway Graz;8010;# Commissionable Orders;4.0;3.0;deliverando
+Loana CakeAway Graz;8010;Avg Basket Size €;27.28;19.9;deliverando
+Loana CakeAway Graz;8010;# Negative Comments;0.0;0.0;deliverando
+Loana CakeAway Graz;8010;# Positive Comments;1.0;0.0;deliverando
+Loana CakeAway Graz;8010;Avg Time to Accept (s);232.0;322.0;deliverando
+Ossi´s Pizza & Burger;8045;# Commissionable Orders;3.0;2.0;deliverando
+Ossi´s Pizza & Burger;8045;# Negative Comments;0.0;0.0;deliverando
+Ossi´s Pizza & Burger;8045;# Positive Comments;0.0;0.0;deliverando
+Asman Restaurant;8055;# Commissionable Orders;82.0;74.0;deliverando
+Asman Restaurant;8055;Avg Basket Size €;22.39;24.34;deliverando
+Asman Restaurant;8055;# Negative Comments;0.0;1.0;deliverando
+Asman Restaurant;8055;# Positive Comments;1.0;1.0;deliverando
+Asman Restaurant;8055;Avg Time to Accept (s);334.0;390.0;deliverando
+Omoka Afrikanisches Restaurant;8020;# Commissionable Orders;97.0;26.0;deliverando
+Omoka Afrikanisches Restaurant;8020;Avg Basket Size €;17.87;20.73;deliverando
+Omoka Afrikanisches Restaurant;8020;# Negative Comments;3.0;1.0;deliverando
+Omoka Afrikanisches Restaurant;8020;# Positive Comments;1.0;1.0;deliverando
+Omoka Afrikanisches Restaurant;8020;Avg Time to Accept (s);320.0;296.0;deliverando
+DIE 3 F Sweet Point;8020;# Commissionable Orders;33.0;156.0;deliverando
+DIE 3 F Sweet Point;8020;Avg Basket Size €;12.69;14.36;deliverando
+DIE 3 F Sweet Point;8020;# Negative Comments;0.0;3.0;deliverando
+DIE 3 F Sweet Point;8020;# Positive Comments;1.0;1.0;deliverando
+DIE 3 F Sweet Point;8020;Avg Time to Accept (s);500.0;473.0;deliverando
+Comida;8055;# Commissionable Orders;0.0;0.0;deliverando
+Comida;8055;# Negative Comments;0.0;0.0;deliverando
+Comida;8055;# Positive Comments;0.0;0.0;deliverando
+Gebraten & Gebacken;8054;# Commissionable Orders;3.0;0.0;deliverando
+Gebraten & Gebacken;8054;# Negative Comments;0.0;0.0;deliverando
+Gebraten & Gebacken;8054;# Positive Comments;0.0;0.0;deliverando
+Molly Malone ;8010;# Commissionable Orders;39.0;0.0;deliverando
+Molly Malone ;8010;# Negative Comments;0.0;0.0;deliverando
+Molly Malone ;8010;# Positive Comments;1.0;0.0;deliverando
+Burgerista;8055;# Commissionable Orders;111.0;40.0;deliverando
+Burgerista;8055;Avg Basket Size €;26.59;27.13;deliverando
+Burgerista;8055;# Negative Comments;2.0;0.0;deliverando
+Burgerista;8055;# Positive Comments;1.0;1.0;deliverando
+Burgerista;8055;Avg Time to Accept (s);577.0;445.0;deliverando
+Aegaeis - Greek Grill;8020;# Commissionable Orders;25.0;1.0;deliverando
+Aegaeis - Greek Grill;8020;Avg Basket Size €;15.49;14.4;deliverando
+Aegaeis - Greek Grill;8020;# Negative Comments;1.0;0.0;deliverando
+Aegaeis - Greek Grill;8020;# Positive Comments;1.0;0.0;deliverando
+Aegaeis - Greek Grill;8020;Avg Time to Accept (s);305.0;155.0;deliverando
+Café Pizzeria Rimini;8020;# Commissionable Orders;54.0;29.0;deliverando
+Café Pizzeria Rimini;8020;Avg Basket Size €;11.58;13.54;deliverando
+Café Pizzeria Rimini;8020;# Negative Comments;0.0;0.0;deliverando
+Café Pizzeria Rimini;8020;# Positive Comments;1.0;0.0;deliverando
+Café Pizzeria Rimini;8020;Avg Time to Accept (s);472.0;536.0;deliverando
+PEP Deli vom Land;8020;# Commissionable Orders;17.0;13.0;deliverando
+PEP Deli vom Land;8020;Avg Basket Size €;17.14;22.65;deliverando
+PEP Deli vom Land;8020;# Negative Comments;0.0;0.0;deliverando
+PEP Deli vom Land;8020;# Positive Comments;1.0;1.0;deliverando
+PEP Deli vom Land;8020;Avg Time to Accept (s);482.0;284.0;deliverando
+bp - MERKUR inside;8010;# Commissionable Orders;86.0;175.0;deliverando
+bp - MERKUR inside;8010;Avg Basket Size €;21.34;22.78;deliverando
+bp - MERKUR inside;8010;# Negative Comments;0.0;1.0;deliverando
+bp - MERKUR inside;8010;# Positive Comments;1.0;1.0;deliverando
+bp - MERKUR inside;8010;Avg Time to Accept (s);485.0;626.0;deliverando
+Big Joe Falafel;8010;# Commissionable Orders;0.0;110.0;deliverando
+Big Joe Falafel;8010;# Negative Comments;0.0;1.0;deliverando
+Big Joe Falafel;8010;# Positive Comments;0.0;1.0;deliverando
+Bellys;8020;# Commissionable Orders;0.0;15.0;deliverando
+Bellys;8020;# Negative Comments;0.0;0.0;deliverando
+Bellys;8020;# Positive Comments;0.0;0.0;deliverando
+Cheesus Burger;8042;# Commissionable Orders;157.0;481.0;deliverando
+Cheesus Burger;8042;Avg Basket Size €;22.13;23.17;deliverando
+Cheesus Burger;8042;# Negative Comments;2.0;2.0;deliverando
+Cheesus Burger;8042;# Positive Comments;1.0;1.0;deliverando
+Cheesus Burger;8042;Avg Time to Accept (s);25.0;19.0;deliverando
+Landhaus Ruckerlberg;8010;# Commissionable Orders;2.0;17.0;deliverando
+Landhaus Ruckerlberg;8010;Avg Basket Size €;17.2;26.24;deliverando
+Landhaus Ruckerlberg;8010;# Negative Comments;0.0;0.0;deliverando
+Landhaus Ruckerlberg;8010;# Positive Comments;0.0;1.0;deliverando
+Landhaus Ruckerlberg;8010;Avg Time to Accept (s);33.0;514.0;deliverando
+Jackson's Fried Chicken - Gries;8020;# Commissionable Orders;0.0;454.0;deliverando
+Jackson's Fried Chicken - Gries;8020;# Negative Comments;0.0;11.0;deliverando
+Jackson's Fried Chicken - Gries;8020;# Positive Comments;0.0;1.0;deliverando
+Cafe Mitte;8010;# Commissionable Orders;0.0;175.0;deliverando
+Cafe Mitte;8010;# Negative Comments;0.0;0.0;deliverando
+Cafe Mitte;8010;# Positive Comments;0.0;1.0;deliverando
+Stella Pizzeria & Kebap House;8052;# Commissionable Orders;7.0;76.0;deliverando
+Stella Pizzeria & Kebap House;8052;Avg Basket Size €;16.54;19.79;deliverando
+Stella Pizzeria & Kebap House;8052;# Negative Comments;0.0;0.0;deliverando
+Stella Pizzeria & Kebap House;8052;# Positive Comments;1.0;1.0;deliverando
+Stella Pizzeria & Kebap House;8052;Avg Time to Accept (s);20.0;20.0;deliverando
+Café Phönix;8010;# Commissionable Orders;0.0;3.0;deliverando
+Café Phönix;8010;# Negative Comments;0.0;0.0;deliverando
+Café Phönix;8010;# Positive Comments;0.0;0.0;deliverando
+Kabashis;8054;# Commissionable Orders;0.0;39.0;deliverando
+Kabashis;8054;# Negative Comments;0.0;0.0;deliverando
+Kabashis;8054;# Positive Comments;0.0;1.0;deliverando
+Wing it! - Innere Stadt;8010;# Commissionable Orders;0.0;102.0;deliverando
+Wing it! - Innere Stadt;8010;# Negative Comments;0.0;0.0;deliverando
+Wing it! - Innere Stadt;8010;# Positive Comments;0.0;1.0;deliverando
+taste&soul - powered by eatclever;8010;# Commissionable Orders;0.0;4.0;deliverando
+taste&soul - powered by eatclever;8010;# Negative Comments;0.0;0.0;deliverando
+taste&soul - powered by eatclever;8010;# Positive Comments;0.0;0.0;deliverando
+Mi Casa-Lateinamerikanisches Restaurant;8020;# Commissionable Orders;0.0;80.0;deliverando
+Mi Casa-Lateinamerikanisches Restaurant;8020;# Negative Comments;0.0;3.0;deliverando
+Mi Casa-Lateinamerikanisches Restaurant;8020;# Positive Comments;0.0;1.0;deliverando
+Unica;8010;# Commissionable Orders;0.0;6.0;deliverando
+Unica;8010;# Negative Comments;0.0;0.0;deliverando
+Unica;8010;# Positive Comments;0.0;0.0;deliverando
+Shell - Shop und Bistro;8020;# Commissionable Orders;0.0;21.0;deliverando
+Shell - Shop und Bistro;8020;# Negative Comments;0.0;0.0;deliverando
+Shell - Shop und Bistro;8020;# Positive Comments;0.0;1.0;deliverando
+NORDSEE - SC Seiersberg;8055;# Commissionable Orders;0.0;7.0;deliverando
+NORDSEE - SC Seiersberg;8055;# Negative Comments;0.0;0.0;deliverando
+NORDSEE - SC Seiersberg;8055;# Positive Comments;0.0;0.0;deliverando
+Zimt- Persisches Restaurant;8010;# Commissionable Orders;0.0;21.0;deliverando
+Zimt- Persisches Restaurant;8010;# Negative Comments;0.0;0.0;deliverando
+Zimt- Persisches Restaurant;8010;# Positive Comments;0.0;0.0;deliverando
+Pastaria;8010;# Commissionable Orders;0.0;0.0;deliverando
+Pastaria;8010;# Negative Comments;0.0;0.0;deliverando
+Pastaria;8010;# Positive Comments;0.0;0.0;deliverando
+Noodle King;8055;# Commissionable Orders;0.0;0.0;deliverando
+Noodle King;8055;# Negative Comments;0.0;0.0;deliverando
+Noodle King;8055;# Positive Comments;0.0;0.0;deliverando
+Trattoria Sole;8010;# Commissionable Orders;0.0;0.0;deliverando
+Trattoria Sole;8010;# Negative Comments;0.0;0.0;deliverando
+Trattoria Sole;8010;# Positive Comments;0.0;0.0;deliverando
+Empanada Story;8020;# Commissionable Orders;0.0;0.0;deliverando
+Empanada Story;8020;# Negative Comments;0.0;0.0;deliverando
+Empanada Story;8020;# Positive Comments;0.0;0.0;deliverando
+Jackson's Fried Chicken - Geidorf;8010;# Commissionable Orders;0.0;0.0;deliverando
+Jackson's Fried Chicken - Geidorf;8010;# Negative Comments;0.0;0.0;deliverando
+Jackson's Fried Chicken - Geidorf;8010;# Positive Comments;0.0;0.0;deliverando
+Wing it! - Lend;8051;# Commissionable Orders;0.0;0.0;deliverando
+Wing it! - Lend;8051;# Negative Comments;0.0;0.0;deliverando
+Wing it! - Lend;8051;# Positive Comments;0.0;0.0;deliverando
+Holy Chicken- Heavenly Fried Chicken;8045;# Commissionable Orders;0.0;0.0;deliverando
+Holy Chicken- Heavenly Fried Chicken;8045;# Negative Comments;0.0;0.0;deliverando
+Holy Chicken- Heavenly Fried Chicken;8045;# Positive Comments;0.0;0.0;deliverando
+Gangnam Kitchen - Korean Fried Chicken;8010;# Commissionable Orders;0.0;0.0;deliverando
+Gangnam Kitchen - Korean Fried Chicken;8010;# Negative Comments;0.0;0.0;deliverando
+Gangnam Kitchen - Korean Fried Chicken;8010;# Positive Comments;0.0;0.0;deliverando
+Yasna Panda Box;8053;# Commissionable Orders;0.0;0.0;deliverando
+Yasna Panda Box;8053;# Negative Comments;0.0;0.0;deliverando
+Yasna Panda Box;8053;# Positive Comments;0.0;0.0;deliverando
+Taj Mahal;8010;# Commissionable Orders;0.0;0.0;deliverando
+Taj Mahal;8010;# Negative Comments;0.0;0.0;deliverando
+Taj Mahal;8010;# Positive Comments;0.0;0.0;deliverando
+Pizzeria Verona Linz;8010;# Commissionable Orders;0.0;0.0;deliverando
+Pizzeria Verona Linz;8010;# Negative Comments;0.0;0.0;deliverando
+Pizzeria Verona Linz;8010;# Positive Comments;0.0;0.0;deliverando
+Cohibar;8010;# Commissionable Orders;0.0;0.0;deliverando
+Cohibar;8010;# Negative Comments;0.0;0.0;deliverando
+Cohibar;8010;# Positive Comments;0.0;0.0;deliverando
+Die Eisperle;8010;# Commissionable Orders;0.0;0.0;deliverando
+Die Eisperle;8010;# Negative Comments;0.0;0.0;deliverando
+Die Eisperle;8010;# Positive Comments;0.0;0.0;deliverando
+Die Eisperle;8055;# Commissionable Orders;0.0;0.0;deliverando
+Die Eisperle;8055;# Negative Comments;0.0;0.0;deliverando
+Die Eisperle;8055;# Positive Comments;0.0;0.0;deliverando
+Score Eggenberg;8020;# Commissionable Orders;0.0;0.0;deliverando
+Score Eggenberg;8020;# Negative Comments;0.0;0.0;deliverando
+Score Eggenberg;8020;# Positive Comments;0.0;0.0;deliverando
+Restaurant Fino;8045;# Commissionable Orders;0.0;0.0;deliverando
+Restaurant Fino;8045;# Negative Comments;0.0;0.0;deliverando
+Restaurant Fino;8045;# Positive Comments;0.0;0.0;deliverando
+Knödel Butler;8020;# Commissionable Orders;0.0;0.0;deliverando
+Knödel Butler;8020;# Negative Comments;0.0;0.0;deliverando
+Knödel Butler;8020;# Positive Comments;0.0;0.0;deliverando
+Sphinx Cafe & Restaurant;8020;# Commissionable Orders;0.0;0.0;deliverando
+Sphinx Cafe & Restaurant;8020;# Negative Comments;0.0;0.0;deliverando
+Sphinx Cafe & Restaurant;8020;# Positive Comments;0.0;0.0;deliverando
+Best Food Grill 8;8045;# Commissionable Orders;0.0;0.0;deliverando
+Best Food Grill 8;8045;# Negative Comments;0.0;0.0;deliverando
+Best Food Grill 8;8045;# Positive Comments;0.0;0.0;deliverando
+Fresh Bowl;8010;# Commissionable Orders;0.0;0.0;deliverando
+Fresh Bowl;8010;# Negative Comments;0.0;0.0;deliverando
+Fresh Bowl;8010;# Positive Comments;0.0;0.0;deliverando
+Ava Persisches Restaurant;8010;# Commissionable Orders;0.0;0.0;deliverando
+Ava Persisches Restaurant;8010;# Negative Comments;0.0;0.0;deliverando
+Ava Persisches Restaurant;8010;# Positive Comments;0.0;0.0;deliverando
+Eat & Meet;8041;# Commissionable Orders;0.0;0.0;deliverando
+Eat & Meet;8041;# Negative Comments;0.0;0.0;deliverando
+Eat & Meet;8041;# Positive Comments;0.0;0.0;deliverando
+Nostalgie Stüberl;8010;# Commissionable Orders;0.0;0.0;deliverando
+Nostalgie Stüberl;8010;# Negative Comments;0.0;0.0;deliverando
+Nostalgie Stüberl;8010;# Positive Comments;0.0;0.0;deliverando
+Gasthaus Hofstätter;8020;# Commissionable Orders;0.0;0.0;deliverando
+Gasthaus Hofstätter;8020;# Negative Comments;0.0;0.0;deliverando
+Gasthaus Hofstätter;8020;# Positive Comments;0.0;0.0;deliverando
+Trattoria Veneziana;8041;# Commissionable Orders;0.0;0.0;deliverando
+Trattoria Veneziana;8041;# Negative Comments;0.0;0.0;deliverando
+Trattoria Veneziana;8041;# Positive Comments;0.0;0.0;deliverando
+Yamamoto;8010;# Commissionable Orders;0.0;0.0;deliverando
+Yamamoto;8010;# Negative Comments;0.0;0.0;deliverando
+Yamamoto;8010;# Positive Comments;0.0;0.0;deliverando
+Safran;8010;# Commissionable Orders;0.0;0.0;deliverando
+Safran;8010;# Negative Comments;0.0;0.0;deliverando
+Safran;8010;# Positive Comments;0.0;0.0;deliverando
+Restaurant Castello;8054;# Commissionable Orders;0.0;0.0;deliverando
+Restaurant Castello;8054;# Negative Comments;0.0;0.0;deliverando
+Restaurant Castello;8054;# Positive Comments;0.0;0.0;deliverando
+Peppino im Hofkeller;8010;# Commissionable Orders;0.0;0.0;deliverando
+Peppino im Hofkeller;8010;# Negative Comments;0.0;0.0;deliverando
+Peppino im Hofkeller;8010;# Positive Comments;0.0;0.0;deliverando
+Tutto Bene;8020;# Commissionable Orders;0.0;0.0;deliverando
+Tutto Bene;8020;# Negative Comments;0.0;0.0;deliverando
+Tutto Bene;8020;# Positive Comments;0.0;0.0;deliverando
+Cheesus Burger;8020;# Commissionable Orders;0.0;0.0;deliverando
+Cheesus Burger;8020;# Negative Comments;0.0;0.0;deliverando
+Cheesus Burger;8020;# Positive Comments;0.0;0.0;deliverando
+Unterm Goldenen Dachl;8010;# Commissionable Orders;0.0;0.0;deliverando
+Unterm Goldenen Dachl;8010;# Negative Comments;0.0;0.0;deliverando
+Unterm Goldenen Dachl;8010;# Positive Comments;0.0;0.0;deliverando
+Hendlkönig Imbisskiosk Seiersberg;8054;# Commissionable Orders;0.0;0.0;deliverando
+Hendlkönig Imbisskiosk Seiersberg;8054;# Negative Comments;0.0;0.0;deliverando
+Hendlkönig Imbisskiosk Seiersberg;8054;# Positive Comments;0.0;0.0;deliverando
+bp - MERKUR inside;8055;# Commissionable Orders;0.0;0.0;deliverando
+bp - MERKUR inside;8055;# Negative Comments;0.0;0.0;deliverando
+bp - MERKUR inside;8055;# Positive Comments;0.0;0.0;deliverando
+Baba Noni - Modern Oriental Kitchen;8020;# Commissionable Orders;0.0;0.0;deliverando
+Baba Noni - Modern Oriental Kitchen;8020;# Negative Comments;0.0;0.0;deliverando
+Baba Noni - Modern Oriental Kitchen;8020;# Positive Comments;0.0;0.0;deliverando
+Afghan Restaurant;8010;# Commissionable Orders;0.0;0.0;deliverando
+Afghan Restaurant;8010;# Negative Comments;0.0;0.0;deliverando
+Afghan Restaurant;8010;# Positive Comments;0.0;0.0;deliverando
+Yamauchi;8020;# Commissionable Orders;0.0;0.0;deliverando
+Yamauchi;8020;# Negative Comments;0.0;0.0;deliverando
+Yamauchi;8020;# Positive Comments;0.0;0.0;deliverando
+Mr. Falafel;8010;# Commissionable Orders;0.0;0.0;deliverando
+Mr. Falafel;8010;# Negative Comments;0.0;0.0;deliverando
+Mr. Falafel;8010;# Positive Comments;0.0;0.0;deliverando
+Royal Kebap;8020;# Commissionable Orders;0.0;0.0;deliverando
+Royal Kebap;8020;# Negative Comments;0.0;0.0;deliverando
+Royal Kebap;8020;# Positive Comments;0.0;0.0;deliverando
+Limes;8010;# Commissionable Orders;0.0;0.0;deliverando
+Limes;8010;# Negative Comments;0.0;0.0;deliverando
+Limes;8010;# Positive Comments;0.0;0.0;deliverando
+Pizzeria Pirates;8055;# Commissionable Orders;0.0;0.0;deliverando
+Pizzeria Pirates;8055;# Negative Comments;0.0;0.0;deliverando
+Pizzeria Pirates;8055;# Positive Comments;0.0;0.0;deliverando
+Gasthaus zur Sonne;8051;# Commissionable Orders;0.0;0.0;deliverando
+Gasthaus zur Sonne;8051;# Negative Comments;0.0;0.0;deliverando
+Gasthaus zur Sonne;8051;# Positive Comments;0.0;0.0;deliverando
+Confiserie Eckhard's;8010;# Commissionable Orders;0.0;0.0;deliverando
+Confiserie Eckhard's;8010;# Negative Comments;0.0;0.0;deliverando
+Confiserie Eckhard's;8010;# Positive Comments;0.0;0.0;deliverando
+SPAR express;8010;# Commissionable Orders;0.0;0.0;deliverando
+SPAR express;8010;# Negative Comments;0.0;0.0;deliverando
+SPAR express;8010;# Positive Comments;0.0;0.0;deliverando
+Grillmeister;8041;# Commissionable Orders;0.0;0.0;deliverando
+Grillmeister;8041;# Negative Comments;0.0;0.0;deliverando
+Grillmeister;8041;# Positive Comments;0.0;0.0;deliverando
+Apex Pizza Burger Kebab;8010;# Commissionable Orders;0.0;0.0;deliverando
+Apex Pizza Burger Kebab;8010;# Negative Comments;0.0;0.0;deliverando
+Apex Pizza Burger Kebab;8010;# Positive Comments;0.0;0.0;deliverando
+Eloïse Drinks;8055;# Commissionable Orders;0.0;0.0;deliverando
+Eloïse Drinks;8055;# Negative Comments;0.0;0.0;deliverando
+Eloïse Drinks;8055;# Positive Comments;0.0;0.0;deliverando
+Burger Boutique;8042;# Commissionable Orders;0.0;0.0;deliverando
+Burger Boutique;8042;# Negative Comments;0.0;0.0;deliverando
+Burger Boutique;8042;# Positive Comments;0.0;0.0;deliverando
+Boba Tea & Juice;8041;# Commissionable Orders;0.0;0.0;deliverando
+Boba Tea & Juice;8041;# Negative Comments;0.0;0.0;deliverando
+Boba Tea & Juice;8041;# Positive Comments;0.0;0.0;deliverando
+Gasthof zum Bayernbrunnen;8020;# Commissionable Orders;0.0;0.0;deliverando
+Gasthof zum Bayernbrunnen;8020;# Negative Comments;0.0;0.0;deliverando
+Gasthof zum Bayernbrunnen;8020;# Positive Comments;0.0;0.0;deliverando
+Ucco's;8010;# Commissionable Orders;0.0;0.0;deliverando
+Ucco's;8010;# Negative Comments;0.0;0.0;deliverando
+Ucco's;8010;# Positive Comments;0.0;0.0;deliverando
+Wir:zhaus;8020;# Commissionable Orders;0.0;0.0;deliverando
+Wir:zhaus;8020;# Negative Comments;0.0;0.0;deliverando
+Wir:zhaus;8020;# Positive Comments;0.0;0.0;deliverando
+Namaste Nepal Restaurant;8010;# Commissionable Orders;0.0;0.0;deliverando
+Namaste Nepal Restaurant;8010;# Negative Comments;0.0;0.0;deliverando
+Namaste Nepal Restaurant;8010;# Positive Comments;0.0;0.0;deliverando
+Easy Asia;8020;# Commissionable Orders;0.0;0.0;deliverando
+Easy Asia;8020;# Negative Comments;0.0;0.0;deliverando
+Easy Asia;8020;# Positive Comments;0.0;0.0;deliverando
