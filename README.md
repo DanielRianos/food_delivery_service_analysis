@@ -21,8 +21,7 @@ Glossary:
 ● # Positive comment - number of reviews with positive comments
 ● # Negative comment - number of reviews with negative comments
 ● Avg time to accept (s) - the average time (in seconds) to accept an order
-● Graz Relevant zip codes 8010, 8020, 8036, 8041, 8042, 8043, 8045, 8051, 8052, 8053,
-8054, 8055, 8063, 8077
+● Graz Relevant zip codes 8010, 8020, 8036, 8041, 8042, 8043, 8045, 8051, 8052, 8053, 8054, 8055, 8063, 8077
 ● # Commissionable Orders - the orders that deliverando earns commissions
 ● Avg Basket Size €- the number of products a customer buys per single transaction. This is calculated as the total number of units sold divided by total transactions
 
@@ -50,6 +49,6 @@ deliverando?
 
 https://public.tableau.com/app/profile/daniel.alejandro.rianos.bedoya/viz/SalesAnalysisfooddeliveryservicecompany/Story1
 
-## Disclaimer: This business case as well as the datasets were provided by Spiced Academy as part of the Data Analytics Bootcamp (July- September 2022).  
+#### Disclaimer: This business case as well as the datasets were provided by Spiced Academy as part of the Data Analytics Bootcamp (July- September 2022).  
 
 
