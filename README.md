@@ -17,13 +17,7 @@ Glossary:
 
 ## KPIs :climbing_man:
 
-● % Kill rate - the percentage of customers who did not order again on the platform after placing an order with the restaurant
-● # Positive comment - number of reviews with positive comments
-● # Negative comment - number of reviews with negative comments
-● Avg time to accept (s) - the average time (in seconds) to accept an order
-● Graz Relevant zip codes 8010, 8020, 8036, 8041, 8042, 8043, 8045, 8051, 8052, 8053, 8054, 8055, 8063, 8077
-● # Commissionable Orders - the orders that deliverando earns commissions
-● Avg Basket Size €- the number of products a customer buys per single transaction. This is calculated as the total number of units sold divided by total transactions
+● % Kill rate - the percentage of customers who did not order again on the platform after placing an order with the restaurant                              ● # Positive comment - number of reviews with positive comments                                                                                              ● # Negative comment - number of reviews with negative comments                                                                                              ● Avg time to accept (s) - the average time (in seconds) to accept an order                                                                                 ● Graz Relevant zip codes 8010, 8020, 8036, 8041, 8042, 8043, 8045, 8051, 8052, 8053, 8054, 8055, 8063, 8077                                               ● # Commissionable Orders - the orders that deliverando earns commissions                                                                                  ● Avg Basket Size €- the number of products a customer buys per single transaction. This is calculated as the total number of units sold divided by total transactions
 
 ## Business Questions :compass:
 
