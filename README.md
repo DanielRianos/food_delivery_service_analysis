@@ -15,7 +15,7 @@ The data set has two documents:
 
 Glossary:
 
-## KPIs :climbing_man:
+## :climbing_man: KPIs 
 
 ● % Kill rate - the percentage of customers who did not order again on the platform after placing an order with the restaurant                             
 ● # Positive comment - number of reviews with positive comments                                                                                             
@@ -25,7 +25,7 @@ Glossary:
 ● # Commissionable Orders - the orders that deliverando earns commissions                                                                                  
 ● Avg Basket Size €- the number of products a customer buys per single transaction. This is calculated as the total number of units sold divided by total transactions
 
-## Business Questions :compass:
+##  :compass: Business Questions
 
 1. How many restaurants are active on deliverando or our competitors in the given months (>0 orders per month)?
 
