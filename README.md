@@ -47,7 +47,7 @@ deliverando?
   
 ### :tv: The vizualization of the analysis results are displayed here:
 
-https://public.tableau.com/app/profile/daniel.alejandro.rianos.bedoya/viz/SalesAnalysisfooddeliveryservicecompany/Story1
+https://public.tableau.com/views/SalesAnalysisfooddeliveryservicecompany/Story1?:language=es-ES&:display_count=n&:origin=viz_share_link
 
 #### Disclaimer: This business case as well as the datasets were provided by Spiced Academy as part of the Data Analytics Bootcamp (July- September 2022).  
 
